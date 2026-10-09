@@ -1,0 +1,78 @@
+bir özgür yazılım açık kaynak şirketi ve altyapısındaki topluluğu için code of conduct metni , özgür yazılım ve açık kaynak lisansları , yazılım , sanat eserleri ve belgelendirme için
+
+Contributing how to contribute belgesi
+
+Security feedback belgesi
+
+abuse kötüye kullanım e postası GPG PGP şifreli 
+
+privacy ile her yerde kullanıcıların şirketlerin vb gizliliği veri toplama kvkk gdpr bilgilendirmesi
+
+service level agreement ile hizmet teknik destek vb seviye beyannamesi
+
+contributor license agreement ile var olan üretilen projelere destekteki telif hakları ve tüm trademark patent vb konularda karşılıklı sözleşme anlaşma
+
+bu saydıklarım yeterli midir ?
+
+Başka hangi metinler yazılabilir ?
+
+*****************************************************************************
+
++ trademark policy 
++ Terms of Service / Terms of Use (Kullanım Şartları)
++ Governance Model (Yönetişim Modeli) - BSD stili
++ Deprecation & Lifecycle Policy (Yaşam Döngüsü Politikası) - SLA ile birlikte ele al
++ Export Control & Sanctions Compliance (İhracat Kontrolü)
++ Vulnerability Disclosure Policy / VDP (Zafiyet Bildirim Politikası)
+
+Saydığınız metinler, profesyonel bir özgür yazılım ve açık kaynak projesinin yasal, topluluksal ve operasyonel altyapısını kurmak için fazlasıyla güçlü ve kapsamlı bir temel oluşturur.
+Ancak projenin ticari sürdürülebilirliği, marka güvenliği ve topluluk yönetimi açısından eksik kalan kritik bazı metinler bulunmaktadır.
+Aşağıda, mevcut listenizin yeterlilik analizini ve kurumsal düzeyde bir yapı için eklemeniz gereken diğer zorunlu metinleri bulabilirsiniz.
+Saydıklarınız Yeterli midir? (Analiz)
+Hazırladığınız liste büyük oranda yeterlidir ancak içerik kalitesi açısından şu detaylara dikkat etmeniz gerekir:
+Lisans Seçimi: Yazılım için (örn. AGPL, Apache 2.0), sanat eserleri için (Creative Commons BY-SA) ve belgelendirme için (CC-BY veya GFDL) net ayrım yapmanız harika bir düşünce.
+CLA (Katılımcı Lisans Sözleşmesi): Şirketleşme aşamasında telif haklarının (copyright) topluluğa mı ait olacağı, yoksa şirkete mi devredileceği (veya ortak mı kullanılacağı) konusunda CLA metni hayati önem taşır.
+SLA & Privacy: Kurumsal müşterilere hizmet satacaksanız SLA ve GDPR/KVKK uyumlu gizlilik sözleşmeleri ticari satışın ön şartıdır.
+Başka Hangi Metinler Yazılmalıdır? (Eksikler)
+Şirketinizin ve topluluğunuzun tam koruma altında olması için listenize şu metinleri de eklemelisiniz:
+1. Trademark Policy (Marka Kullanım Politikası)
+Açık kaynak projelerinde kod özgürdür ancak marka ismi ve logo özgür değildir. Linux, Android veya WordPress gibi devler markalarını korur.
+Amacı: Topluluğun projenizin ismini ve logosunu hangi durumlarda (örn. etkinlikler, blog yazıları) izin almadan kullanabileceğini, hangi durumlarda (örn. ticari ürün satışı) şirketten izin alması gerektiğini belirler.
+2. Terms of Service / Terms of Use (Kullanım Şartları)
+Eğer topluluğa ait bir forum, kod deposu, paket yöneticisi (registry) veya bulut tabanlı bir test platformu sunuyorsanız bu metin zorunludur.
+Amacı: Kullanıcıların sunduğunuz dijital altyapıları ve sunucuları yasa dışı işler, spam veya siber saldırılar için kullanamayacağını taahhüt altına alır.
+3. Governance Model (Yönetişim Modeli)
+Topluluğun kararları nasıl alacağını açıklayan şeffaf bir kılavuzdur.
+Amacı: Projede kimin "Maintainer" (Yönetici) olacağını, kodun ana dala (main branch) nasıl kabul edileceğini ve şirket ile topluluk arasındaki güç dengesini açıklar. Topluluk güveni için kritiktir.
+4. Deprecation & Lifecycle Policy (Yaşam Döngüsü Politikası)
+Yazılımların eski sürümlerine ne kadar süre destek verileceğini ilan eden metindir.
+Amacı: Kurumsal müşterilerin ve kullanıcıların, bir sürümün ne zaman "Life of End" (Ömür Sonu) olacağını bilmesini sağlar. Sizi sonsuza kadar eski sürümlere hata yaması (patch) yapmaktan kurtarır.
+5. Export Control & Sanctions Compliance (İhracat Kontrolü)
+Özellikle kriptografi (şifreleme) içeren yazılımlar üretiyorsanız veya küresel çapta hizmet veriyorsanız gereklidir.
+Amacı: Yazılımınızın ABD, AB veya Türkiye'nin ambargo uyguladığı ülkelere/şahıslara ulaştırılmasından doğacak yasal sorumluluklardan şirketinizi korur.
+6. Vulnerability Disclosure Policy / VDP (Zafiyet Bildirim Politikası)
+"Security Feedback" belgenizin yasal hatlarını çizen daha geniş bir çerçevedir.
+Amacı: Güvenlik araştırmacılarının buldukları açıkları kamuoyuna açıklamadan önce size bildirmeleri için tanınan süreyi (örn. 90 gün) ve ödül (Bug Bounty) kurallarını belirler.
+Özet Yol Haritası
+Bir sonraki adıma geçmek için dökümanlarınızı şu 3 ana kategoriye ayırarak organize etmenizi öneririm:
+
+├── 🏢 ŞİRKET & TİCARİ (Legal)
+│   ├── Privacy Policy (KVKK/GDPR)
+│   ├── Terms of Service (ToS)
+│   ├── Trademark Policy
+│   └── SLA (Hizmet Seviyesi Sözleşmesi)
+│
+├── 👥 TOPLULUK & KATILIM (Community)
+│   ├── Code of Conduct (CoC)
+│   ├── Contributing.md
+│   ├── Governance Model
+│   └── CLA (Katılımcı Sözleşmesi)
+│
+└── 💻 TEKNİK & GÜVENLİK (Technical)
+    ├── Licenses (Yazılım, Sanat, Belge)
+    ├── Security.md & VDP (GPG/PGP dahil)
+    └── Lifecycle & Deprecation Policy
+
+
+Projenizi daha iyi özelleştirebilmem için bana yazılımınızın hangi sektörde faaliyet göstereceğini, ticari model olarak SaaS (bulut) mu yoksa yerleşik (on-premise) destek mi sunacağınızı belirtirseniz, hangi lisans modellerinin (örn. Dual-licensing, Open Core) size daha uygun olduğunu netleştirebilirim.
+
