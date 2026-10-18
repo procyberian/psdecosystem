@@ -20,6 +20,7 @@ oluşur. [ABD İngilizcesi README](<README.md>) dosyası da mevcuttur.
 - [PSD TUI](<psdtui.pdf>) ve [PSD TUI, 2. belge](<psdtui2.pdf>)
 - [C++ Çekirdeği](<cppkernel.pdf>)
 - [Çekirdek Programlama 101](<kernel_programming_101.pdf>)
+- [Çerçeve tabanlı yapay zeka ile işletim sistemine entegre yapay zeka](<work.pdf>)
 - [Hurd için C++ ile kullanıcı alanı sürücüsü yazabilir miyim?](<C++ Can I write userspace drivers with C++ for hurd.pdf>)
 - [Hurd](<hurd.pdf>)
 - [Linux ve C++](<linuxcpp.pdf>)

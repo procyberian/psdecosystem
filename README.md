@@ -20,6 +20,7 @@ plain-text proposal. The [Turkish README](<README.tr.md>) is also available.
 - [PSD TUI](<psdtui.pdf>) and [PSD TUI, document 2](<psdtui2.pdf>)
 - [C++ Kernel](<cppkernel.pdf>)
 - [Kernel Programming 101](<kernel_programming_101.pdf>)
+- [Framework-based AI versus OS-integrated AI (Turkish)](<work.pdf>)
 - [Can I Write Userspace Drivers with C++ for Hurd?](<C++ Can I write userspace drivers with C++ for hurd.pdf>)
 - [Hurd](<hurd.pdf>)
 - [Linux and C++](<linuxcpp.pdf>)

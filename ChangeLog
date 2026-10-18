@@ -64,3 +64,5 @@ Commit subjects are summarized in American English.
 - Added this chronological `ChangeLog` and documented the repository's
   history and license terms in `README.md`.
 - Added the `kernel_programming_101.pdf` publication.
+- Added `work.pdf`, a Turkish-language document comparing a framework-based
+  AI approach with OS-integrated AI.
