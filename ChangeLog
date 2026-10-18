@@ -1,0 +1,62 @@
+# ChangeLog
+
+This log records every change from the repository's first commit onward.
+Commit subjects are summarized in American English.
+
+## 2026-10-07
+
+- Initialized the repository with three PSD Ecosystem publications:
+  `PSD_Ecosystem.pdf`, `PSD_Ecosystem2.pdf`, and `PSD_Ecosystem3.pdf`.
+- Added two PSD TUI publications: `psdtui.pdf` and `psdtui2.pdf`.
+
+## 2026-10-08
+
+- Added the `cppkernel.pdf` and `hurd.pdf` publications.
+- Added `C++ Can I write userspace drivers with C++ for hurd.pdf`.
+- Added C++ and Linux development material: `linuxcpp.pdf`,
+  `memcpp.pdf`, and `network subsystem for linux.pdf`.
+- Added the `kamunet.pdf` publication.
+
+## 2026-10-09
+
+- Added two licensing guides: `lisanslama-101.pdf` and
+  `lisanslama-101-2.pdf`.
+- Added the DAO document in editable and PDF formats: `dao.odt` and
+  `dao.pdf`.
+- Added `psdnedir.pdf`.
+- Established the PSD Documentation repository structure with `.gitignore`,
+  `LICENSE`, and `README.md`; the initial license was MIT, and the ignore
+  rules covered Emacs and Org-mode artifacts.
+- Added the QB Networks startup proposal in ODT, PDF, and plain-text formats:
+  `qbnetworks_startup.odt`, `qbnetworks_startup.pdf`, and
+  `qbnetworks_startup.txt`.
+
+## 2026-10-10
+
+- Added Unix development material in PDF and editable ODT formats:
+  `unixdev.pdf` and `unixdev.odt`.
+- Published BNGPL 1.0 in `bngpl-1.0.md` and updated the root `LICENSE` and
+  `README.md` to introduce the license and its initial terms.
+
+## 2026-10-11
+
+- Added a comparison of BSD 3-Clause and BNGPL in
+  `bsd3clause_vs_bngpl.pdf`.
+- Added the BNGPL framework publication in `framework_bngpl.pdf`.
+- Added `serebral.pdf`, documenting LibreOffice support for Serebral.
+- Added the MassCollabs services publication, `mass.tr.pdf`.
+
+## 2026-10-12
+
+- Published BNGPL 2.0 in `bngpl-2.0.md` and updated `README.md` for the new
+  license version.
+- Published BNGPL 3.0 in `bngpl-3.0.md` and updated the root `LICENSE` and
+  `README.md` with the new version and terms.
+- Added the military BNGPL publication, `askerilisans.pdf`.
+- Added `psdgnulinux_sivil_copyleft.pdf` and recorded in `exception.md` that
+  this publication is licensed under AGPLv3-or-later.
+
+## 2026-10-18
+
+- Added three memory publications under `bellek/`:
+  `bellek.pdf`, `malloc_1.pdf`, and `malloc_2.pdf`.
