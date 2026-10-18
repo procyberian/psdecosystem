@@ -3,7 +3,7 @@
 This repository collects project, software, infrastructure, and licensing
 documents related to the PSD Ecosystem. It currently consists primarily of
 PDF publications, with a small number of editable ODT documents and a
-plain-text proposal.
+plain-text proposal. The [Turkish README](<README.tr.md>) is also available.
 
 ## Document Library
 
@@ -19,6 +19,7 @@ plain-text proposal.
 
 - [PSD TUI](<psdtui.pdf>) and [PSD TUI, document 2](<psdtui2.pdf>)
 - [C++ Kernel](<cppkernel.pdf>)
+- [Kernel Programming 101](<kernel_programming_101.pdf>)
 - [Can I Write Userspace Drivers with C++ for Hurd?](<C++ Can I write userspace drivers with C++ for hurd.pdf>)
 - [Hurd](<hurd.pdf>)
 - [Linux and C++](<linuxcpp.pdf>)
@@ -41,6 +42,7 @@ plain-text proposal.
 - [Framework under BNGPL 1.0 or later](<framework_bngpl.pdf>)
 - [Military BNGPL licensing](<askerilisans.pdf>)
 - [BNGPL 1.0](<bngpl-1.0.md>), [BNGPL 2.0](<bngpl-2.0.md>), and [BNGPL 3.0](<bngpl-3.0.md>)
+- [GNU Affero General Public License 3.0](<agpl-3.0.md>)
 - [License exception](<exception.md>): the civilian PSD GNU/Linux copyleft document is identified as AGPLv3-or-later.
 
 ### Memory
@@ -72,9 +74,12 @@ below:
   AGPLv3-or-later exception for the civilian PSD GNU/Linux copyleft
   publication.
 - **October 18, 2026:** Added three memory publications.
+- **October 18, 2026:** Added the AGPL 3.0 license text and documented the
+  complete project history and license terms in this repository.
+- **October 18, 2026:** Added the *Kernel Programming 101* publication.
 
-The [ChangeLog](<ChangeLog>) gives the complete dated record and names each
-document added at every stage.
+The [ChangeLog](<ChangeLog>) records changes from the first commit through
+the latest project commit and names the documents added at each stage.
 
 ## License
 
