@@ -21,6 +21,7 @@ oluşur. [ABD İngilizcesi README](<README.md>) dosyası da mevcuttur.
 - [C++ Çekirdeği](<cppkernel.pdf>)
 - [Çekirdek Programlama 101](<kernel_programming_101.pdf>)
 - [Çerçeve tabanlı yapay zeka ile işletim sistemine entegre yapay zeka](<work.pdf>)
+- [Linux ve GNU geliştiricileri: Linux çekirdeğini çatallama ve lisanslama](<linuxgnudevelopers.pdf>)
 - [Hurd için C++ ile kullanıcı alanı sürücüsü yazabilir miyim?](<C++ Can I write userspace drivers with C++ for hurd.pdf>)
 - [Hurd](<hurd.pdf>)
 - [Linux ve C++](<linuxcpp.pdf>)
@@ -77,6 +78,9 @@ Depoda ilk commit'ten son proje commit'ine kadar yapılan değişikliklerin
 - **18 Ekim 2026:** AGPL 3.0 lisans metni eklendi; proje geçmişi ve lisans
   koşulları belgelerde açıklandı.
 - **18 Ekim 2026:** *Çekirdek Programlama 101* yayını eklendi.
+- **18 Ekim 2026:** Çerçeve tabanlı ile işletim sistemine entegre yapay zekayı
+  anlatan `work.pdf` ve Linux çekirdeğini çatallamayı, GPLv2, GPLv3 ve AGPLv3
+  lisanslama sonuçlarıyla birlikte ele alan `linuxgnudevelopers.pdf` eklendi.
 
 [ChangeLog](<ChangeLog>), ilk commit'ten son proje commit'ine kadar olan
 değişiklikleri tarih sırasıyla ve eklenen belgelerin adlarıyla kaydeder.

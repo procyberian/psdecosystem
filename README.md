@@ -21,6 +21,7 @@ plain-text proposal. The [Turkish README](<README.tr.md>) is also available.
 - [C++ Kernel](<cppkernel.pdf>)
 - [Kernel Programming 101](<kernel_programming_101.pdf>)
 - [Framework-based AI versus OS-integrated AI (Turkish)](<work.pdf>)
+- [Linux and GNU developers: forking the Linux kernel and licensing (Turkish)](<linuxgnudevelopers.pdf>)
 - [Can I Write Userspace Drivers with C++ for Hurd?](<C++ Can I write userspace drivers with C++ for hurd.pdf>)
 - [Hurd](<hurd.pdf>)
 - [Linux and C++](<linuxcpp.pdf>)
@@ -78,6 +79,9 @@ below:
 - **October 18, 2026:** Added the AGPL 3.0 license text and documented the
   complete project history and license terms in this repository.
 - **October 18, 2026:** Added the *Kernel Programming 101* publication.
+- **October 18, 2026:** Added `work.pdf` on framework-based versus
+  OS-integrated AI, and `linuxgnudevelopers.pdf` on forking the Linux kernel
+  and its GPLv2, GPLv3, and AGPLv3 licensing implications.
 
 The [ChangeLog](<ChangeLog>) records changes from the first commit through
 the latest project commit and names the documents added at each stage.

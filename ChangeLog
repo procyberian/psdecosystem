@@ -66,3 +66,5 @@ Commit subjects are summarized in American English.
 - Added the `kernel_programming_101.pdf` publication.
 - Added `work.pdf`, a Turkish-language document comparing a framework-based
   AI approach with OS-integrated AI.
+- Added `linuxgnudevelopers.pdf`, a Turkish-language document on forking the
+  Linux kernel and the GPLv2, GPLv3, and AGPLv3 licensing implications.
