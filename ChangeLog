@@ -68,3 +68,13 @@ Commit subjects are summarized in American English.
   AI approach with OS-integrated AI.
 - Added `linuxgnudevelopers.pdf`, a Turkish-language document on forking the
   Linux kernel and the GPLv2, GPLv3, and AGPLv3 licensing implications.
+
+## 2026-10-24
+
+- Added a file system documentation section under `fs/`, each guide in
+  Markdown and PDF formats:
+  - `fs/ext2-3/ext2fs_kod_analizi`: an ext2/ext3 code analysis.
+  - `fs/hurd/hurd_filesystem_guide`: a Hurd file system guide.
+  - `fs/psdfs/psd_dosya_sistemi_kilavuzu`: a PSD file system guide.
+  - `fs/windowsfs/refs_ve_windows_dosya_sistemleri_raporu`: a report on ReFS
+    and Windows file systems.

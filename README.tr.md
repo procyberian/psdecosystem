@@ -47,6 +47,13 @@ oluşur. [ABD İngilizcesi README](<README.md>) dosyası da mevcuttur.
 - [GNU Affero Genel Kamu Lisansı 3.0](<agpl-3.0.md>)
 - [Lisans istisnası](<exception.md>): sivil PSD GNU/Linux copyleft belgesinin AGPLv3-or-later kapsamında olduğu belirtilmiştir.
 
+### Dosya Sistemleri
+
+- [ext2/ext3 kod analizi](<fs/ext2-3/ext2fs_kod_analizi.pdf>) ([Markdown](<fs/ext2-3/ext2fs_kod_analizi.md>))
+- [Hurd dosya sistemi kılavuzu](<fs/hurd/hurd_filesystem_guide.pdf>) ([Markdown](<fs/hurd/hurd_filesystem_guide.md>))
+- [PSD dosya sistemi kılavuzu](<fs/psdfs/psd_dosya_sistemi_kilavuzu.pdf>) ([Markdown](<fs/psdfs/psd_dosya_sistemi_kilavuzu.md>))
+- [ReFS ve Windows dosya sistemleri raporu](<fs/windowsfs/refs_ve_windows_dosya_sistemleri_raporu.pdf>) ([Markdown](<fs/windowsfs/refs_ve_windows_dosya_sistemleri_raporu.md>))
+
 ### Bellek
 
 - [Bellek genel bakışı](<bellek/bellek.pdf>)
@@ -81,6 +88,9 @@ Depoda ilk commit'ten son proje commit'ine kadar yapılan değişikliklerin
 - **18 Ekim 2026:** Çerçeve tabanlı ile işletim sistemine entegre yapay zekayı
   anlatan `work.pdf` ve Linux çekirdeğini çatallamayı, GPLv2, GPLv3 ve AGPLv3
   lisanslama sonuçlarıyla birlikte ele alan `linuxgnudevelopers.pdf` eklendi.
+- **24 Ekim 2026:** `fs/` altına ext2/ext3, Hurd, PSD ve ReFS/Windows dosya
+  sistemlerini kapsayan, her biri Markdown ve PDF biçiminde dosya sistemi
+  belgeleri eklendi.
 
 [ChangeLog](<ChangeLog>), ilk commit'ten son proje commit'ine kadar olan
 değişiklikleri tarih sırasıyla ve eklenen belgelerin adlarıyla kaydeder.

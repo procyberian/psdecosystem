@@ -47,6 +47,13 @@ plain-text proposal. The [Turkish README](<README.tr.md>) is also available.
 - [GNU Affero General Public License 3.0](<agpl-3.0.md>)
 - [License exception](<exception.md>): the civilian PSD GNU/Linux copyleft document is identified as AGPLv3-or-later.
 
+### File Systems
+
+- [ext2/ext3 code analysis](<fs/ext2-3/ext2fs_kod_analizi.pdf>) ([Markdown](<fs/ext2-3/ext2fs_kod_analizi.md>))
+- [Hurd file system guide](<fs/hurd/hurd_filesystem_guide.pdf>) ([Markdown](<fs/hurd/hurd_filesystem_guide.md>))
+- [PSD file system guide](<fs/psdfs/psd_dosya_sistemi_kilavuzu.pdf>) ([Markdown](<fs/psdfs/psd_dosya_sistemi_kilavuzu.md>))
+- [ReFS and Windows file systems report](<fs/windowsfs/refs_ve_windows_dosya_sistemleri_raporu.pdf>) ([Markdown](<fs/windowsfs/refs_ve_windows_dosya_sistemleri_raporu.md>))
+
 ### Memory
 
 - [Memory overview](<bellek/bellek.pdf>)
@@ -82,6 +89,9 @@ below:
 - **October 18, 2026:** Added `work.pdf` on framework-based versus
   OS-integrated AI, and `linuxgnudevelopers.pdf` on forking the Linux kernel
   and its GPLv2, GPLv3, and AGPLv3 licensing implications.
+- **October 24, 2026:** Added a file system documentation section under
+  `fs/` covering ext2/ext3, Hurd, PSD, and ReFS/Windows file systems, each in
+  Markdown and PDF formats.
 
 The [ChangeLog](<ChangeLog>) records changes from the first commit through
 the latest project commit and names the documents added at each stage.
