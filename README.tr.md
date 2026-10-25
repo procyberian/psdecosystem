@@ -9,47 +9,48 @@ oluşur. [ABD İngilizcesi README](<README.md>) dosyası da mevcuttur.
 
 ### PSD Ekosistemi ve GNU/Linux
 
-- [PSD Ekosistemi, 1. belge](<PSD_Ecosystem.pdf>)
-- [PSD Ekosistemi, 2. belge](<PSD_Ecosystem2.pdf>)
-- [PSD Ekosistemi, 3. belge](<PSD_Ecosystem3.pdf>)
-- [PSD nedir?](<psdnedir.pdf>)
-- [Sivil PSD GNU/Linux Copyleft](<psdgnulinux_sivil_copyleft.pdf>)
+- [PSD Ekosistemi, 1. belge](<ecosystem/PSD_Ecosystem.pdf>)
+- [PSD Ekosistemi, 2. belge](<ecosystem/PSD_Ecosystem2.pdf>)
+- [PSD Ekosistemi, 3. belge](<ecosystem/PSD_Ecosystem3.pdf>)
+- [PSD nedir?](<ecosystem/psdnedir.pdf>)
+- [Sivil PSD GNU/Linux Copyleft](<ecosystem/psdgnulinux_sivil_copyleft.pdf>)
 
 ### Kullanıcı Arayüzleri ve Geliştirme
 
-- [PSD TUI](<psdtui.pdf>) ve [PSD TUI, 2. belge](<psdtui2.pdf>)
-- [C++ Çekirdeği](<cppkernel.pdf>)
-- [Çekirdek Programlama 101](<kernel_programming_101.pdf>)
-- [Çerçeve tabanlı yapay zeka ile işletim sistemine entegre yapay zeka](<work.pdf>)
-- [Linux ve GNU geliştiricileri: Linux çekirdeğini çatallama ve lisanslama](<linuxgnudevelopers.pdf>)
-- [Hurd için C++ ile kullanıcı alanı sürücüsü yazabilir miyim?](<C++ Can I write userspace drivers with C++ for hurd.pdf>)
-- [Hurd](<hurd.pdf>)
-- [Linux ve C++](<linuxcpp.pdf>)
-- [C++ ile bellek yönetimi](<memcpp.pdf>)
-- [Linux için ağ alt sistemi](<network subsystem for linux.pdf>)
-- [Unix geliştirme](<unixdev.pdf>) ([düzenlenebilir ODT](<unixdev.odt>))
+- [PSD TUI](<interfaces/psdtui.pdf>) ve [PSD TUI, 2. belge](<interfaces/psdtui2.pdf>)
+- [C++ Çekirdeği](<kernel/cppkernel.pdf>)
+- [Çekirdek Programlama 101](<kernel/kernel_programming_101.pdf>)
+- [Çerçeve tabanlı yapay zeka ile işletim sistemine entegre yapay zeka](<kernel/work.pdf>)
+- [Linux ve GNU geliştiricileri: Linux çekirdeğini çatallama ve lisanslama](<kernel/linuxgnudevelopers.pdf>)
+- [Hurd için C++ ile kullanıcı alanı sürücüsü yazabilir miyim?](<kernel/C++ Can I write userspace drivers with C++ for hurd.pdf>)
+- [Hurd](<kernel/hurd.pdf>)
+- [Linux ve C++](<kernel/linuxcpp.pdf>)
+- [C++ ile bellek yönetimi](<kernel/memcpp.pdf>)
+- [Linux için ağ alt sistemi](<networking/network subsystem for linux.pdf>)
+- [Unix geliştirme](<unix/unixdev.pdf>) ([düzenlenebilir ODT](<unix/unixdev.odt>))
 
 ### Topluluklar, Kuruluşlar ve Hizmetler
 
-- [KamuNet](<kamunet.pdf>)
-- [DAO](<dao.pdf>) ([düzenlenebilir ODT](<dao.odt>))
-- [QB Networks girişim önerisi](<qbnetworks_startup.pdf>) ([düzenlenebilir ODT](<qbnetworks_startup.odt>); [düz metin](<qbnetworks_startup.txt>))
-- [Serebral](<serebral.pdf>)
-- [MassCollabs hizmetleri](<mass.tr.pdf>)
+- [KamuNet](<networking/kamunet.pdf>)
+- [DAO](<organizations/dao.pdf>) ([düzenlenebilir ODT](<organizations/dao.odt>))
+- [QB Networks girişim önerisi](<organizations/qbnetworks_startup.pdf>) ([düzenlenebilir ODT](<organizations/qbnetworks_startup.odt>); [düz metin](<organizations/qbnetworks_startup.txt>))
+- [Serebral](<organizations/serebral.pdf>)
+- [MassCollabs hizmetleri](<organizations/mass.tr.pdf>)
 
 ### Lisanslama
 
-- [Lisanslama 101](<lisanslama-101.pdf>) ve [Lisanslama 101, 2. belge](<lisanslama-101-2.pdf>)
-- [BSD 3-Clause ve BNGPL karşılaştırması](<bsd3clause_vs_bngpl.pdf>)
-- [BNGPL 1.0 veya sonrası kapsamında çerçeve](<framework_bngpl.pdf>)
-- [Askerî BNGPL lisanslaması](<askerilisans.pdf>)
-- [BNGPL 1.0](<bngpl-1.0.md>), [BNGPL 2.0](<bngpl-2.0.md>) ve [BNGPL 3.0](<bngpl-3.0.md>)
-- [GNU Affero Genel Kamu Lisansı 3.0](<agpl-3.0.md>)
-- [Lisans istisnası](<exception.md>): sivil PSD GNU/Linux copyleft belgesinin AGPLv3-or-later kapsamında olduğu belirtilmiştir.
+- [Lisanslama 101](<licensing/lisanslama-101.pdf>) ve [Lisanslama 101, 2. belge](<licensing/lisanslama-101-2.pdf>)
+- [BSD 3-Clause ve BNGPL karşılaştırması](<licensing/bsd3clause_vs_bngpl.pdf>)
+- [BNGPL 1.0 veya sonrası kapsamında çerçeve](<licensing/framework_bngpl.pdf>)
+- [Askerî BNGPL lisanslaması](<licensing/askerilisans.pdf>)
+- [BNGPL 1.0](<licensing/bngpl-1.0.md>), [BNGPL 2.0](<licensing/bngpl-2.0.md>) ve [BNGPL 3.0](<licensing/bngpl-3.0.md>)
+- [GNU Affero Genel Kamu Lisansı 3.0](<licensing/agpl-3.0.md>)
+- [Lisans istisnası](<licensing/exception.md>): sivil PSD GNU/Linux copyleft belgesinin AGPLv3-or-later kapsamında olduğu belirtilmiştir.
 
 ### Dosya Sistemleri
 
 - [Dosya sistemi ve Linux üzerinde dosya sistemi geliştirme rehberi](<fs/dosya_sistemi_rehberi.pdf>) ([Markdown](<fs/dosya_sistemi_rehberi.md>))
+- [Debian PSD UMFS rehberi](<fs/debianpsdumfs.pdf>) ([Markdown](<fs/debianpsdumfs.md>))
 - [ext2/ext3 kod analizi](<fs/ext2-3/ext2fs_kod_analizi.pdf>) ([Markdown](<fs/ext2-3/ext2fs_kod_analizi.md>))
 - [Hurd dosya sistemi kılavuzu](<fs/hurd/hurd_filesystem_guide.pdf>) ([Markdown](<fs/hurd/hurd_filesystem_guide.md>))
 - [PSD dosya sistemi kılavuzu](<fs/psdfs/psd_dosya_sistemi_kilavuzu.pdf>) ([Markdown](<fs/psdfs/psd_dosya_sistemi_kilavuzu.md>))
@@ -103,6 +104,8 @@ Depoda ilk commit'ten son proje commit'ine kadar yapılan değişikliklerin
 - **25 Ekim 2026:** `society/` altına AGPL ve BNGPL lisanslarının Marksist
   açıdan iki ek Türkçe karşılaştırması, genişletilmiş ikinci sürümü de dahil
   olmak üzere, Markdown ve PDF biçiminde eklendi.
+- **26 Ekim 2026:** Yayınlar konu klasörlerinde düzenlendi; dosya sistemi ve
+  toplum belgeleri mevcut konu klasörlerinde bırakıldı.
 
 [ChangeLog](<ChangeLog>), ilk commit'ten son proje commit'ine kadar olan
 değişiklikleri tarih sırasıyla ve eklenen belgelerin adlarıyla kaydeder.
@@ -114,9 +117,9 @@ Telif hakkı (c) 2026-2027 PSD Yazarları.
 Belgeye özgü bir istisna bulunmadıkça bu depo, Proje Sahibi tarafından resmen
 yayımlanan ve bu yükseltme yoluna izin veren sonraki bir sürüm veya Broad
 Netwide General Public License (BNGPL), Sürüm 3.0 kapsamında lisanslanır.
-Koşullar için [LICENSE](<LICENSE>) dosyasına ve [BNGPL 3.0 metnine](<bngpl-3.0.md>)
-bakın. [psdgnulinux_sivil_copyleft.pdf](<psdgnulinux_sivil_copyleft.pdf>)
-belgesi için geçerli istisna [exception.md](<exception.md>) dosyasında
+koşullar için [LICENSE](<LICENSE>) dosyasına ve [BNGPL 3.0 metnine](<licensing/bngpl-3.0.md>)
+bakın. [psdgnulinux_sivil_copyleft.pdf](<ecosystem/psdgnulinux_sivil_copyleft.pdf>)
+belgesi için geçerli istisna [exception.md](<licensing/exception.md>) dosyasında
 kaydedilmiştir.
 
 Bu materyal herhangi bir garanti verilmeksizin, “olduğu gibi” sunulur.

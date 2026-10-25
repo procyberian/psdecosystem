@@ -91,3 +91,10 @@ Commit subjects are summarized in American English.
 - Added `fs/dosya_sistemi_rehberi` in Markdown and PDF formats: a
   Turkish-language guide to file systems and file system development on
   Linux.
+
+## 2026-10-26
+
+- Organized publications into topic folders: `ecosystem/`, `interfaces/`,
+  `kernel/`, `licensing/`, `networking/`, `organizations/`, and `unix/`.
+- Kept repository-level files and the existing `bellek/`, `fs/`, and
+  `society/` topic folders in place.

@@ -9,47 +9,48 @@ plain-text proposal. The [Turkish README](<README.tr.md>) is also available.
 
 ### PSD Ecosystem and GNU/Linux
 
-- [PSD Ecosystem, document 1](<PSD_Ecosystem.pdf>)
-- [PSD Ecosystem, document 2](<PSD_Ecosystem2.pdf>)
-- [PSD Ecosystem, document 3](<PSD_Ecosystem3.pdf>)
-- [What Is PSD?](<psdnedir.pdf>)
-- [Civilian PSD GNU/Linux Copyleft](<psdgnulinux_sivil_copyleft.pdf>)
+- [PSD Ecosystem, document 1](<ecosystem/PSD_Ecosystem.pdf>)
+- [PSD Ecosystem, document 2](<ecosystem/PSD_Ecosystem2.pdf>)
+- [PSD Ecosystem, document 3](<ecosystem/PSD_Ecosystem3.pdf>)
+- [What Is PSD?](<ecosystem/psdnedir.pdf>)
+- [Civilian PSD GNU/Linux Copyleft](<ecosystem/psdgnulinux_sivil_copyleft.pdf>)
 
 ### User Interfaces and Development
 
-- [PSD TUI](<psdtui.pdf>) and [PSD TUI, document 2](<psdtui2.pdf>)
-- [C++ Kernel](<cppkernel.pdf>)
-- [Kernel Programming 101](<kernel_programming_101.pdf>)
-- [Framework-based AI versus OS-integrated AI (Turkish)](<work.pdf>)
-- [Linux and GNU developers: forking the Linux kernel and licensing (Turkish)](<linuxgnudevelopers.pdf>)
-- [Can I Write Userspace Drivers with C++ for Hurd?](<C++ Can I write userspace drivers with C++ for hurd.pdf>)
-- [Hurd](<hurd.pdf>)
-- [Linux and C++](<linuxcpp.pdf>)
-- [Memory Management with C++](<memcpp.pdf>)
-- [Network Subsystem for Linux](<network subsystem for linux.pdf>)
-- [Unix Development](<unixdev.pdf>) ([editable ODT](<unixdev.odt>))
+- [PSD TUI](<interfaces/psdtui.pdf>) and [PSD TUI, document 2](<interfaces/psdtui2.pdf>)
+- [C++ Kernel](<kernel/cppkernel.pdf>)
+- [Kernel Programming 101](<kernel/kernel_programming_101.pdf>)
+- [Framework-based AI versus OS-integrated AI (Turkish)](<kernel/work.pdf>)
+- [Linux and GNU developers: forking the Linux kernel and licensing (Turkish)](<kernel/linuxgnudevelopers.pdf>)
+- [Can I Write Userspace Drivers with C++ for Hurd?](<kernel/C++ Can I write userspace drivers with C++ for hurd.pdf>)
+- [Hurd](<kernel/hurd.pdf>)
+- [Linux and C++](<kernel/linuxcpp.pdf>)
+- [Memory Management with C++](<kernel/memcpp.pdf>)
+- [Network Subsystem for Linux](<networking/network subsystem for linux.pdf>)
+- [Unix Development](<unix/unixdev.pdf>) ([editable ODT](<unix/unixdev.odt>))
 
 ### Community, Organizations, and Services
 
-- [KamuNet](<kamunet.pdf>)
-- [DAO](<dao.pdf>) ([editable ODT](<dao.odt>))
-- [QB Networks startup proposal](<qbnetworks_startup.pdf>) ([editable ODT](<qbnetworks_startup.odt>); [plain text](<qbnetworks_startup.txt>))
-- [Serebral](<serebral.pdf>)
-- [MassCollabs services](<mass.tr.pdf>)
+- [KamuNet](<networking/kamunet.pdf>)
+- [DAO](<organizations/dao.pdf>) ([editable ODT](<organizations/dao.odt>))
+- [QB Networks startup proposal](<organizations/qbnetworks_startup.pdf>) ([editable ODT](<organizations/qbnetworks_startup.odt>); [plain text](<organizations/qbnetworks_startup.txt>))
+- [Serebral](<organizations/serebral.pdf>)
+- [MassCollabs services](<organizations/mass.tr.pdf>)
 
 ### Licensing
 
-- [Licensing 101](<lisanslama-101.pdf>) and [Licensing 101, document 2](<lisanslama-101-2.pdf>)
-- [BSD 3-Clause and BNGPL comparison](<bsd3clause_vs_bngpl.pdf>)
-- [Framework under BNGPL 1.0 or later](<framework_bngpl.pdf>)
-- [Military BNGPL licensing](<askerilisans.pdf>)
-- [BNGPL 1.0](<bngpl-1.0.md>), [BNGPL 2.0](<bngpl-2.0.md>), and [BNGPL 3.0](<bngpl-3.0.md>)
-- [GNU Affero General Public License 3.0](<agpl-3.0.md>)
-- [License exception](<exception.md>): the civilian PSD GNU/Linux copyleft document is identified as AGPLv3-or-later.
+- [Licensing 101](<licensing/lisanslama-101.pdf>) and [Licensing 101, document 2](<licensing/lisanslama-101-2.pdf>)
+- [BSD 3-Clause and BNGPL comparison](<licensing/bsd3clause_vs_bngpl.pdf>)
+- [Framework under BNGPL 1.0 or later](<licensing/framework_bngpl.pdf>)
+- [Military BNGPL licensing](<licensing/askerilisans.pdf>)
+- [BNGPL 1.0](<licensing/bngpl-1.0.md>), [BNGPL 2.0](<licensing/bngpl-2.0.md>), and [BNGPL 3.0](<licensing/bngpl-3.0.md>)
+- [GNU Affero General Public License 3.0](<licensing/agpl-3.0.md>)
+- [License exception](<licensing/exception.md>): the civilian PSD GNU/Linux copyleft document is identified as AGPLv3-or-later.
 
 ### File Systems
 
 - [File system and Linux file system development guide (Turkish)](<fs/dosya_sistemi_rehberi.pdf>) ([Markdown](<fs/dosya_sistemi_rehberi.md>))
+- [Debian PSD UMFS guide](<fs/debianpsdumfs.pdf>) ([Markdown](<fs/debianpsdumfs.md>))
 - [ext2/ext3 code analysis](<fs/ext2-3/ext2fs_kod_analizi.pdf>) ([Markdown](<fs/ext2-3/ext2fs_kod_analizi.md>))
 - [Hurd file system guide](<fs/hurd/hurd_filesystem_guide.pdf>) ([Markdown](<fs/hurd/hurd_filesystem_guide.md>))
 - [PSD file system guide](<fs/psdfs/psd_dosya_sistemi_kilavuzu.pdf>) ([Markdown](<fs/psdfs/psd_dosya_sistemi_kilavuzu.md>))
@@ -105,6 +106,8 @@ below:
 - **October 25, 2026:** Added two more Turkish-language Marxist comparisons of
   the AGPL and BNGPL licenses under `society/`, including an expanded second
   version, in Markdown and PDF formats.
+- **October 26, 2026:** Organized publications into topic folders while
+  retaining the existing file-system and society documentation folders.
 
 The [ChangeLog](<ChangeLog>) records changes from the first commit through
 the latest project commit and names the documents added at each stage.
@@ -116,10 +119,10 @@ Copyright (c) 2026-2027 PSD Authors.
 Unless a document-specific exception applies, this repository is licensed
 under the Broad Netwide General Public License (BNGPL), Version 3.0, or a
 later version officially released by the Project Owner that permits that
-upgrade path. See [LICENSE](<LICENSE>) and the [BNGPL 3.0 text](<bngpl-3.0.md>)
+upgrade path. See [LICENSE](<LICENSE>) and the [BNGPL 3.0 text](<licensing/bngpl-3.0.md>)
 for the terms. The exception for
-[psdgnulinux_sivil_copyleft.pdf](<psdgnulinux_sivil_copyleft.pdf>) is recorded
-in [exception.md](<exception.md>).
+[psdgnulinux_sivil_copyleft.pdf](<ecosystem/psdgnulinux_sivil_copyleft.pdf>) is recorded
+in [exception.md](<licensing/exception.md>).
 
 This material is provided "as is," without warranty. If it is conveyed as a
 binary or deployed through a cloud or SaaS interface, the applicable BNGPL
