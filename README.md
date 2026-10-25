@@ -57,6 +57,8 @@ plain-text proposal. The [Turkish README](<README.tr.md>) is also available.
 ### Society and Licensing Analysis
 
 - [Comparison of AGPL and BNGPL from a Marxist perspective (Turkish)](<society/lisans_society.pdf>) ([Markdown](<society/lisans_society.md>))
+- [Marxist comparison of AGPL and BNGPL licenses (Turkish)](<society/lisanslarin_marksist_karsilastirmasi.pdf>) ([Markdown](<society/lisanslarin_marksist_karsilastirmasi.md>))
+- [Expanded Marxist comparison of AGPL and BNGPL licenses, version 2 (Turkish)](<society/lisanslarin_marksist_karsilastirmasi_v2.pdf>) ([Markdown](<society/lisanslarin_marksist_karsilastirmasi_v2.md>))
 
 ### Memory
 
@@ -99,6 +101,9 @@ below:
 - **October 25, 2026:** Added `society/`, a Turkish-language comparison of the
   AGPL and BNGPL licenses from a Marxist perspective, in Markdown and PDF
   formats.
+- **October 25, 2026:** Added two more Turkish-language Marxist comparisons of
+  the AGPL and BNGPL licenses under `society/`, including an expanded second
+  version, in Markdown and PDF formats.
 
 The [ChangeLog](<ChangeLog>) records changes from the first commit through
 the latest project commit and names the documents added at each stage.

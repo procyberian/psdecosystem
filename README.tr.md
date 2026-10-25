@@ -57,6 +57,8 @@ oluşur. [ABD İngilizcesi README](<README.md>) dosyası da mevcuttur.
 ### Toplum ve Lisans Analizi
 
 - [AGPL ve BNGPL lisanslarının Marksist açıdan karşılaştırılması](<society/lisans_society.pdf>) ([Markdown](<society/lisans_society.md>))
+- [AGPL ve BNGPL lisanslarının Marksist karşılaştırması](<society/lisanslarin_marksist_karsilastirmasi.pdf>) ([Markdown](<society/lisanslarin_marksist_karsilastirmasi.md>))
+- [AGPL ve BNGPL lisanslarının genişletilmiş Marksist karşılaştırması, 2. sürüm](<society/lisanslarin_marksist_karsilastirmasi_v2.pdf>) ([Markdown](<society/lisanslarin_marksist_karsilastirmasi_v2.md>))
 
 ### Bellek
 
@@ -97,6 +99,9 @@ Depoda ilk commit'ten son proje commit'ine kadar yapılan değişikliklerin
   belgeleri eklendi.
 - **25 Ekim 2026:** `society/` altına AGPL ve BNGPL lisanslarını Marksist
   açıdan karşılaştıran, Markdown ve PDF biçiminde Türkçe belge eklendi.
+- **25 Ekim 2026:** `society/` altına AGPL ve BNGPL lisanslarının Marksist
+  açıdan iki ek Türkçe karşılaştırması, genişletilmiş ikinci sürümü de dahil
+  olmak üzere, Markdown ve PDF biçiminde eklendi.
 
 [ChangeLog](<ChangeLog>), ilk commit'ten son proje commit'ine kadar olan
 değişiklikleri tarih sırasıyla ve eklenen belgelerin adlarıyla kaydeder.

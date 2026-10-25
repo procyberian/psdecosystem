@@ -84,3 +84,7 @@ Commit subjects are summarized in American English.
 - Added `society/lisans_society` in Markdown and PDF formats: a
   Turkish-language comparison of the AGPL and BNGPL licenses from a Marxist
   perspective.
+- Added two further Turkish-language comparisons of the AGPL and BNGPL
+  licenses from a Marxist perspective under `society/`, each in Markdown and
+  PDF formats: `lisanslarin_marksist_karsilastirmasi` and its expanded
+  second version, `lisanslarin_marksist_karsilastirmasi_v2`.
