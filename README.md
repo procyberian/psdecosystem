@@ -52,6 +52,9 @@ plain-text proposal. The [Turkish README](<README.tr.md>) is also available.
 - [File system and Linux file system development guide (Turkish)](<fs/dosya_sistemi_rehberi.pdf>) ([Markdown](<fs/dosya_sistemi_rehberi.md>))
 - [Debian PSD UMFS guide](<fs/debianpsdumfs.pdf>) ([Markdown](<fs/debianpsdumfs.md>))
 - [UMFS theory (Turkish)](<fs/umfs/umfs_theory.pdf>) ([Markdown](<fs/umfs/umfs_theory.md>))
+- [UMFS bindings (Turkish)](<fs/umfs/bu yapida bindings ne anlama gelir.pdf>) ([Markdown](<fs/umfs/bu yapida bindings ne anlama gelir.md>))
+- [UMFS bindings, part 1: Guile (Turkish)](<fs/umfs/bu yapida bindings ne anlama gelir 1.pdf>) ([Markdown](<fs/umfs/bu yapida bindings ne anlama gelir 1.md>))
+- [UMFS bindings, part 2: licensing (Turkish)](<fs/umfs/bu yapida bindings ne anlama gelir 2.pdf>) ([Markdown](<fs/umfs/bu yapida bindings ne anlama gelir 2.md>))
 - [ext2/ext3 code analysis](<fs/ext2-3/ext2fs_kod_analizi.pdf>) ([Markdown](<fs/ext2-3/ext2fs_kod_analizi.md>))
 - [Hurd file system guide](<fs/hurd/hurd_filesystem_guide.pdf>) ([Markdown](<fs/hurd/hurd_filesystem_guide.md>))
 - [PSD file system guide](<fs/psdfs/psd_dosya_sistemi_kilavuzu.pdf>) ([Markdown](<fs/psdfs/psd_dosya_sistemi_kilavuzu.md>))
@@ -112,6 +115,9 @@ below:
 - **October 26, 2026:** Added `fs/umfs/umfs_theory`, a Turkish-language UMFS
   design discussion covering the kernel and system scripting layers and AI
   considerations, in Markdown and PDF formats.
+- **October 26, 2026:** Added three Turkish-language UMFS notes under
+  `fs/umfs/` on language bindings, embedding Guile as a Lisp engine, and
+  AGPL v3 or later licensing, in Markdown and PDF formats.
 
 The [ChangeLog](<ChangeLog>) records changes from the first commit through
 the latest project commit and names the documents added at each stage.

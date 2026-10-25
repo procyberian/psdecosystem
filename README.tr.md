@@ -52,6 +52,9 @@ oluşur. [ABD İngilizcesi README](<README.md>) dosyası da mevcuttur.
 - [Dosya sistemi ve Linux üzerinde dosya sistemi geliştirme rehberi](<fs/dosya_sistemi_rehberi.pdf>) ([Markdown](<fs/dosya_sistemi_rehberi.md>))
 - [Debian PSD UMFS rehberi](<fs/debianpsdumfs.pdf>) ([Markdown](<fs/debianpsdumfs.md>))
 - [UMFS teorisi](<fs/umfs/umfs_theory.pdf>) ([Markdown](<fs/umfs/umfs_theory.md>))
+- [UMFS bindings](<fs/umfs/bu yapida bindings ne anlama gelir.pdf>) ([Markdown](<fs/umfs/bu yapida bindings ne anlama gelir.md>))
+- [UMFS bindings, bölüm 1: Guile](<fs/umfs/bu yapida bindings ne anlama gelir 1.pdf>) ([Markdown](<fs/umfs/bu yapida bindings ne anlama gelir 1.md>))
+- [UMFS bindings, bölüm 2: lisanslama](<fs/umfs/bu yapida bindings ne anlama gelir 2.pdf>) ([Markdown](<fs/umfs/bu yapida bindings ne anlama gelir 2.md>))
 - [ext2/ext3 kod analizi](<fs/ext2-3/ext2fs_kod_analizi.pdf>) ([Markdown](<fs/ext2-3/ext2fs_kod_analizi.md>))
 - [Hurd dosya sistemi kılavuzu](<fs/hurd/hurd_filesystem_guide.pdf>) ([Markdown](<fs/hurd/hurd_filesystem_guide.md>))
 - [PSD dosya sistemi kılavuzu](<fs/psdfs/psd_dosya_sistemi_kilavuzu.pdf>) ([Markdown](<fs/psdfs/psd_dosya_sistemi_kilavuzu.md>))
@@ -110,6 +113,9 @@ Depoda ilk commit'ten son proje commit'ine kadar yapılan değişikliklerin
 - **26 Ekim 2026:** `fs/umfs/umfs_theory` eklendi; UMFS (Universal Massive
   File System) tasarımını, çekirdek ve sistem betik katmanlarını ve yapay zeka
   değerlendirmelerini ele alan Türkçe belge, Markdown ve PDF biçiminde sunuldu.
+- **26 Ekim 2026:** `fs/umfs/` altına dil bağlayıcılarını (bindings), Guile'ın
+  gömülü Lisp motoru olarak kullanımını ve GNU AGPL v3 veya üzeri lisanslamayı
+  ele alan üç Türkçe UMFS notu, Markdown ve PDF biçiminde eklendi.
 
 [ChangeLog](<ChangeLog>), ilk commit'ten son proje commit'ine kadar olan
 değişiklikleri tarih sırasıyla ve eklenen belgelerin adlarıyla kaydeder.

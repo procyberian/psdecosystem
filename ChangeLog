@@ -102,3 +102,8 @@ Commit subjects are summarized in American English.
   discussion of UMFS (Universal Massive File System) design, its kernel and
   system scripting layers (Python, Guile Scheme, Common Lisp), and AI
   considerations.
+- Added three Turkish-language UMFS notes under `fs/umfs/`, each in Markdown
+  and PDF formats: `bu yapida bindings ne anlama gelir` (what language
+  bindings mean in the UMFS structure), `bu yapida bindings ne anlama gelir 1`
+  (embedding Guile as a Lisp engine), and `bu yapida bindings ne anlama gelir 2`
+  (licensing considerations under the GNU AGPL v3 or later).
