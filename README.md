@@ -54,6 +54,10 @@ plain-text proposal. The [Turkish README](<README.tr.md>) is also available.
 - [PSD file system guide](<fs/psdfs/psd_dosya_sistemi_kilavuzu.pdf>) ([Markdown](<fs/psdfs/psd_dosya_sistemi_kilavuzu.md>))
 - [ReFS and Windows file systems report](<fs/windowsfs/refs_ve_windows_dosya_sistemleri_raporu.pdf>) ([Markdown](<fs/windowsfs/refs_ve_windows_dosya_sistemleri_raporu.md>))
 
+### Society and Licensing Analysis
+
+- [Comparison of AGPL and BNGPL from a Marxist perspective (Turkish)](<society/lisans_society.pdf>) ([Markdown](<society/lisans_society.md>))
+
 ### Memory
 
 - [Memory overview](<bellek/bellek.pdf>)
@@ -92,6 +96,9 @@ below:
 - **October 24, 2026:** Added a file system documentation section under
   `fs/` covering ext2/ext3, Hurd, PSD, and ReFS/Windows file systems, each in
   Markdown and PDF formats.
+- **October 25, 2026:** Added `society/`, a Turkish-language comparison of the
+  AGPL and BNGPL licenses from a Marxist perspective, in Markdown and PDF
+  formats.
 
 The [ChangeLog](<ChangeLog>) records changes from the first commit through
 the latest project commit and names the documents added at each stage.

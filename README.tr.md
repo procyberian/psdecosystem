@@ -54,6 +54,10 @@ oluşur. [ABD İngilizcesi README](<README.md>) dosyası da mevcuttur.
 - [PSD dosya sistemi kılavuzu](<fs/psdfs/psd_dosya_sistemi_kilavuzu.pdf>) ([Markdown](<fs/psdfs/psd_dosya_sistemi_kilavuzu.md>))
 - [ReFS ve Windows dosya sistemleri raporu](<fs/windowsfs/refs_ve_windows_dosya_sistemleri_raporu.pdf>) ([Markdown](<fs/windowsfs/refs_ve_windows_dosya_sistemleri_raporu.md>))
 
+### Toplum ve Lisans Analizi
+
+- [AGPL ve BNGPL lisanslarının Marksist açıdan karşılaştırılması](<society/lisans_society.pdf>) ([Markdown](<society/lisans_society.md>))
+
 ### Bellek
 
 - [Bellek genel bakışı](<bellek/bellek.pdf>)
@@ -91,6 +95,8 @@ Depoda ilk commit'ten son proje commit'ine kadar yapılan değişikliklerin
 - **24 Ekim 2026:** `fs/` altına ext2/ext3, Hurd, PSD ve ReFS/Windows dosya
   sistemlerini kapsayan, her biri Markdown ve PDF biçiminde dosya sistemi
   belgeleri eklendi.
+- **25 Ekim 2026:** `society/` altına AGPL ve BNGPL lisanslarını Marksist
+  açıdan karşılaştıran, Markdown ve PDF biçiminde Türkçe belge eklendi.
 
 [ChangeLog](<ChangeLog>), ilk commit'ten son proje commit'ine kadar olan
 değişiklikleri tarih sırasıyla ve eklenen belgelerin adlarıyla kaydeder.

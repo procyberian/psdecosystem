@@ -78,3 +78,9 @@ Commit subjects are summarized in American English.
   - `fs/psdfs/psd_dosya_sistemi_kilavuzu`: a PSD file system guide.
   - `fs/windowsfs/refs_ve_windows_dosya_sistemleri_raporu`: a report on ReFS
     and Windows file systems.
+
+## 2026-10-25
+
+- Added `society/lisans_society` in Markdown and PDF formats: a
+  Turkish-language comparison of the AGPL and BNGPL licenses from a Marxist
+  perspective.
