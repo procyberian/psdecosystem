@@ -51,6 +51,7 @@ plain-text proposal. The [Turkish README](<README.tr.md>) is also available.
 
 - [File system and Linux file system development guide (Turkish)](<fs/dosya_sistemi_rehberi.pdf>) ([Markdown](<fs/dosya_sistemi_rehberi.md>))
 - [Debian PSD UMFS guide](<fs/debianpsdumfs.pdf>) ([Markdown](<fs/debianpsdumfs.md>))
+- [UMFS theory (Turkish)](<fs/umfs/umfs_theory.pdf>) ([Markdown](<fs/umfs/umfs_theory.md>))
 - [ext2/ext3 code analysis](<fs/ext2-3/ext2fs_kod_analizi.pdf>) ([Markdown](<fs/ext2-3/ext2fs_kod_analizi.md>))
 - [Hurd file system guide](<fs/hurd/hurd_filesystem_guide.pdf>) ([Markdown](<fs/hurd/hurd_filesystem_guide.md>))
 - [PSD file system guide](<fs/psdfs/psd_dosya_sistemi_kilavuzu.pdf>) ([Markdown](<fs/psdfs/psd_dosya_sistemi_kilavuzu.md>))
@@ -108,6 +109,9 @@ below:
   version, in Markdown and PDF formats.
 - **October 26, 2026:** Organized publications into topic folders while
   retaining the existing file-system and society documentation folders.
+- **October 26, 2026:** Added `fs/umfs/umfs_theory`, a Turkish-language UMFS
+  design discussion covering the kernel and system scripting layers and AI
+  considerations, in Markdown and PDF formats.
 
 The [ChangeLog](<ChangeLog>) records changes from the first commit through
 the latest project commit and names the documents added at each stage.

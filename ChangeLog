@@ -98,3 +98,7 @@ Commit subjects are summarized in American English.
   `kernel/`, `licensing/`, `networking/`, `organizations/`, and `unix/`.
 - Kept repository-level files and the existing `bellek/`, `fs/`, and
   `society/` topic folders in place.
+- Added `fs/umfs/umfs_theory` in Markdown and PDF formats: a Turkish-language
+  discussion of UMFS (Universal Massive File System) design, its kernel and
+  system scripting layers (Python, Guile Scheme, Common Lisp), and AI
+  considerations.

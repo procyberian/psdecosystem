@@ -51,6 +51,7 @@ oluşur. [ABD İngilizcesi README](<README.md>) dosyası da mevcuttur.
 
 - [Dosya sistemi ve Linux üzerinde dosya sistemi geliştirme rehberi](<fs/dosya_sistemi_rehberi.pdf>) ([Markdown](<fs/dosya_sistemi_rehberi.md>))
 - [Debian PSD UMFS rehberi](<fs/debianpsdumfs.pdf>) ([Markdown](<fs/debianpsdumfs.md>))
+- [UMFS teorisi](<fs/umfs/umfs_theory.pdf>) ([Markdown](<fs/umfs/umfs_theory.md>))
 - [ext2/ext3 kod analizi](<fs/ext2-3/ext2fs_kod_analizi.pdf>) ([Markdown](<fs/ext2-3/ext2fs_kod_analizi.md>))
 - [Hurd dosya sistemi kılavuzu](<fs/hurd/hurd_filesystem_guide.pdf>) ([Markdown](<fs/hurd/hurd_filesystem_guide.md>))
 - [PSD dosya sistemi kılavuzu](<fs/psdfs/psd_dosya_sistemi_kilavuzu.pdf>) ([Markdown](<fs/psdfs/psd_dosya_sistemi_kilavuzu.md>))
@@ -106,6 +107,9 @@ Depoda ilk commit'ten son proje commit'ine kadar yapılan değişikliklerin
   olmak üzere, Markdown ve PDF biçiminde eklendi.
 - **26 Ekim 2026:** Yayınlar konu klasörlerinde düzenlendi; dosya sistemi ve
   toplum belgeleri mevcut konu klasörlerinde bırakıldı.
+- **26 Ekim 2026:** `fs/umfs/umfs_theory` eklendi; UMFS (Universal Massive
+  File System) tasarımını, çekirdek ve sistem betik katmanlarını ve yapay zeka
+  değerlendirmelerini ele alan Türkçe belge, Markdown ve PDF biçiminde sunuldu.
 
 [ChangeLog](<ChangeLog>), ilk commit'ten son proje commit'ine kadar olan
 değişiklikleri tarih sırasıyla ve eklenen belgelerin adlarıyla kaydeder.
