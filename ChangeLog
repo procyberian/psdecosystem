@@ -88,3 +88,6 @@ Commit subjects are summarized in American English.
   licenses from a Marxist perspective under `society/`, each in Markdown and
   PDF formats: `lisanslarin_marksist_karsilastirmasi` and its expanded
   second version, `lisanslarin_marksist_karsilastirmasi_v2`.
+- Added `fs/dosya_sistemi_rehberi` in Markdown and PDF formats: a
+  Turkish-language guide to file systems and file system development on
+  Linux.
