@@ -29,6 +29,10 @@ oluşur. [ABD İngilizcesi README](<README.md>) dosyası da mevcuttur.
 - [Linux için ağ alt sistemi](<networking/network subsystem for linux.pdf>)
 - [Unix geliştirme](<unix/unixdev.pdf>) ([düzenlenebilir ODT](<unix/unixdev.odt>))
 
+### Lisp ve Kabuk Dilleri
+
+- [QShell deposunu inceleme rehberi](<lısp/bu depoda dikkat etmem gereken yerler nelerdir qsh.pdf>) ([Markdown](<lısp/bu depoda dikkat etmem gereken yerler nelerdir qsh.md>)): Guile tabanlı mimariyi, incelenmesi gereken temel dizinleri ve sistem betiklerinde QShell kullanımını ele alan Türkçe bir rehber.
+
 ### Topluluklar, Kuruluşlar ve Hizmetler
 
 - [KamuNet](<networking/kamunet.pdf>)
@@ -116,6 +120,9 @@ Depoda ilk commit'ten son proje commit'ine kadar yapılan değişikliklerin
 - **26 Ekim 2026:** `fs/umfs/` altına dil bağlayıcılarını (bindings), Guile'ın
   gömülü Lisp motoru olarak kullanımını ve GNU AGPL v3 veya üzeri lisanslamayı
   ele alan üç Türkçe UMFS notu, Markdown ve PDF biçiminde eklendi.
+- **26 Ekim 2026:** Guile tabanlı mimariyi, incelenmesi gereken temel
+  dizinleri ve sistem betiklerinde QShell kullanımını ele alan Türkçe QShell
+  depo rehberi Markdown ve PDF biçimlerinde eklendi.
 
 [ChangeLog](<ChangeLog>), ilk commit'ten son proje commit'ine kadar olan
 değişiklikleri tarih sırasıyla ve eklenen belgelerin adlarıyla kaydeder.

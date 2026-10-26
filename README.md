@@ -29,6 +29,10 @@ plain-text proposal. The [Turkish README](<README.tr.md>) is also available.
 - [Network Subsystem for Linux](<networking/network subsystem for linux.pdf>)
 - [Unix Development](<unix/unixdev.pdf>) ([editable ODT](<unix/unixdev.odt>))
 
+### Lisp and Shell Languages
+
+- [QShell repository exploration guide (Turkish)](<lısp/bu depoda dikkat etmem gereken yerler nelerdir qsh.pdf>) ([Markdown](<lısp/bu depoda dikkat etmem gereken yerler nelerdir qsh.md>)): an overview of the Guile-based architecture and areas to examine when developing QShell for system scripting.
+
 ### Community, Organizations, and Services
 
 - [KamuNet](<networking/kamunet.pdf>)
@@ -118,6 +122,9 @@ below:
 - **October 26, 2026:** Added three Turkish-language UMFS notes under
   `fs/umfs/` on language bindings, embedding Guile as a Lisp engine, and
   AGPL v3 or later licensing, in Markdown and PDF formats.
+- **October 26, 2026:** Added a Turkish-language QShell repository guide in
+  Markdown and PDF formats, covering the Guile-based architecture, key
+  directories, and system scripting considerations.
 
 The [ChangeLog](<ChangeLog>) records changes from the first commit through
 the latest project commit and names the documents added at each stage.

@@ -107,3 +107,7 @@ Commit subjects are summarized in American English.
   bindings mean in the UMFS structure), `bu yapida bindings ne anlama gelir 1`
   (embedding Guile as a Lisp engine), and `bu yapida bindings ne anlama gelir 2`
   (licensing considerations under the GNU AGPL v3 or later).
+- Added `lısp/bu depoda dikkat etmem gereken yerler nelerdir qsh` in Markdown
+  and PDF formats: a Turkish-language guide to exploring the QShell
+  repository, its Guile-based architecture, and its potential use for system
+  scripting.
