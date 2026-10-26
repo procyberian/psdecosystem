@@ -33,6 +33,10 @@ plain-text proposal. The [Turkish README](<README.tr.md>) is also available.
 
 - [QShell repository exploration guide (Turkish)](<lısp/bu depoda dikkat etmem gereken yerler nelerdir qsh.pdf>) ([Markdown](<lısp/bu depoda dikkat etmem gereken yerler nelerdir qsh.md>)): an overview of the Guile-based architecture and areas to examine when developing QShell for system scripting.
 
+### Distribution Planning
+
+- [PSD repository assessment and architecture outlook (Turkish)](<distro/bu depoda dikkat etmem gereken yerler nelerdir qsh 1.pdf>) ([Markdown](<distro/bu depoda dikkat etmem gereken yerler nelerdir qsh 1.md>)): an assessment of the repository as design documentation, the envisioned Kernel, UMFS, Guile, and QShell layering, and suggested priorities.
+
 ### Community, Organizations, and Services
 
 - [KamuNet](<networking/kamunet.pdf>)
@@ -125,6 +129,9 @@ below:
 - **October 26, 2026:** Added a Turkish-language QShell repository guide in
   Markdown and PDF formats, covering the Guile-based architecture, key
   directories, and system scripting considerations.
+- **October 26, 2026:** Added a Turkish-language assessment of the repository
+  and the envisioned Kernel, UMFS, Guile, and QShell architecture under
+  `distro/`, in Markdown and PDF formats.
 
 The [ChangeLog](<ChangeLog>) records changes from the first commit through
 the latest project commit and names the documents added at each stage.

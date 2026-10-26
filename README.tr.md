@@ -33,6 +33,10 @@ oluşur. [ABD İngilizcesi README](<README.md>) dosyası da mevcuttur.
 
 - [QShell deposunu inceleme rehberi](<lısp/bu depoda dikkat etmem gereken yerler nelerdir qsh.pdf>) ([Markdown](<lısp/bu depoda dikkat etmem gereken yerler nelerdir qsh.md>)): Guile tabanlı mimariyi, incelenmesi gereken temel dizinleri ve sistem betiklerinde QShell kullanımını ele alan Türkçe bir rehber.
 
+### Dağıtım Planlaması
+
+- [PSD deposu değerlendirmesi ve mimari görünümü](<distro/bu depoda dikkat etmem gereken yerler nelerdir qsh 1.pdf>) ([Markdown](<distro/bu depoda dikkat etmem gereken yerler nelerdir qsh 1.md>)): Depoyu tasarım belgeleri olarak değerlendiren, öngörülen Çekirdek, UMFS, Guile ve QShell katmanlarını ve önerilen öncelikleri ele alan Türkçe belge.
+
 ### Topluluklar, Kuruluşlar ve Hizmetler
 
 - [KamuNet](<networking/kamunet.pdf>)
@@ -123,6 +127,9 @@ Depoda ilk commit'ten son proje commit'ine kadar yapılan değişikliklerin
 - **26 Ekim 2026:** Guile tabanlı mimariyi, incelenmesi gereken temel
   dizinleri ve sistem betiklerinde QShell kullanımını ele alan Türkçe QShell
   depo rehberi Markdown ve PDF biçimlerinde eklendi.
+- **26 Ekim 2026:** `distro/` altına depoyu ve öngörülen Çekirdek, UMFS, Guile
+  ve QShell mimarisini değerlendiren Türkçe belge, Markdown ve PDF biçiminde
+  eklendi.
 
 [ChangeLog](<ChangeLog>), ilk commit'ten son proje commit'ine kadar olan
 değişiklikleri tarih sırasıyla ve eklenen belgelerin adlarıyla kaydeder.

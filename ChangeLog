@@ -111,3 +111,7 @@ Commit subjects are summarized in American English.
   and PDF formats: a Turkish-language guide to exploring the QShell
   repository, its Guile-based architecture, and its potential use for system
   scripting.
+- Added `distro/bu depoda dikkat etmem gereken yerler nelerdir qsh 1` in
+  Markdown and PDF formats: a Turkish-language assessment of this repository
+  as PSD Ecosystem design and documentation material, the envisioned
+  Kernel, UMFS, Guile, and QShell layering, and suggested priorities.
