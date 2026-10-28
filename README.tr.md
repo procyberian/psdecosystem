@@ -37,6 +37,10 @@ oluşur. [ABD İngilizcesi README](<README.md>) dosyası da mevcuttur.
 
 - [PSD deposu değerlendirmesi ve mimari görünümü](<distro/bu depoda dikkat etmem gereken yerler nelerdir qsh 1.pdf>) ([Markdown](<distro/bu depoda dikkat etmem gereken yerler nelerdir qsh 1.md>)): Depoyu tasarım belgeleri olarak değerlendiren, öngörülen Çekirdek, UMFS, Guile ve QShell katmanlarını ve önerilen öncelikleri ele alan Türkçe belge.
 
+### MassForge
+
+- [Git ve CI/CD platformu mimari tasarımı](<massforge/git_platform_mimari_tasarimi.pdf>) ([Markdown](<massforge/git_platform_mimari_tasarimi.md>)): C/C++ ve GNU Assembler odaklı, yüksek performanslı bir Git ve CI/CD platformunun çekirdek, depolama, CI/CD motoru, web teknolojileri ve ölçekleme başlıklarını kapsayan mimari yol haritası.
+
 ### Topluluklar, Kuruluşlar ve Hizmetler
 
 - [KamuNet](<networking/kamunet.pdf>)
@@ -130,6 +134,9 @@ Depoda ilk commit'ten son proje commit'ine kadar yapılan değişikliklerin
 - **26 Ekim 2026:** `distro/` altına depoyu ve öngörülen Çekirdek, UMFS, Guile
   ve QShell mimarisini değerlendiren Türkçe belge, Markdown ve PDF biçiminde
   eklendi.
+- **28 Ekim 2026:** `massforge/` altına C/C++ ve GNU Assembler odaklı,
+  yüksek performanslı bir Git ve CI/CD platformunun mimari tasarımını anlatan
+  Türkçe belge, Markdown ve PDF biçiminde eklendi.
 
 [ChangeLog](<ChangeLog>), ilk commit'ten son proje commit'ine kadar olan
 değişiklikleri tarih sırasıyla ve eklenen belgelerin adlarıyla kaydeder.

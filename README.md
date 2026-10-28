@@ -37,6 +37,10 @@ plain-text proposal. The [Turkish README](<README.tr.md>) is also available.
 
 - [PSD repository assessment and architecture outlook (Turkish)](<distro/bu depoda dikkat etmem gereken yerler nelerdir qsh 1.pdf>) ([Markdown](<distro/bu depoda dikkat etmem gereken yerler nelerdir qsh 1.md>)): an assessment of the repository as design documentation, the envisioned Kernel, UMFS, Guile, and QShell layering, and suggested priorities.
 
+### MassForge
+
+- [Git and CI/CD platform architecture design (Turkish)](<massforge/git_platform_mimari_tasarimi.pdf>) ([Markdown](<massforge/git_platform_mimari_tasarimi.md>)): an architecture roadmap for a high-performance Git and CI/CD platform using C/C++ and GNU Assembler, covering the core, storage, CI/CD engine, web stack, and scaling.
+
 ### Community, Organizations, and Services
 
 - [KamuNet](<networking/kamunet.pdf>)
@@ -132,6 +136,9 @@ below:
 - **October 26, 2026:** Added a Turkish-language assessment of the repository
   and the envisioned Kernel, UMFS, Guile, and QShell architecture under
   `distro/`, in Markdown and PDF formats.
+- **October 28, 2026:** Added `massforge/`, a Turkish-language architecture
+  design for a high-performance C/C++ and GNU Assembler Git and CI/CD
+  platform, in Markdown and PDF formats.
 
 The [ChangeLog](<ChangeLog>) records changes from the first commit through
 the latest project commit and names the documents added at each stage.

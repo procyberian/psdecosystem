@@ -115,3 +115,11 @@ Commit subjects are summarized in American English.
   Markdown and PDF formats: a Turkish-language assessment of this repository
   as PSD Ecosystem design and documentation material, the envisioned
   Kernel, UMFS, Guile, and QShell layering, and suggested priorities.
+
+## 2026-10-28
+
+- Added `massforge/git_platform_mimari_tasarimi` in Markdown and PDF formats:
+  a Turkish-language architecture design for a high-performance Git and CI/CD
+  platform built on C/C++ and GNU Assembler, covering the core language split,
+  data and storage layers, the CI/CD engine, web technologies, and monitoring
+  and scaling.
