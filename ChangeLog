@@ -123,3 +123,11 @@ Commit subjects are summarized in American English.
   platform built on C/C++ and GNU Assembler, covering the core language split,
   data and storage layers, the CI/CD engine, web technologies, and monitoring
   and scaling.
+
+## 2026-10-31
+
+- Added `fs/disk_ve_veri_guvenligi_rehberi` in Markdown and PDF formats: a
+  Turkish-language guide to disk security, file systems (with a ZFS and Ceph
+  focus), and digital forensics, covering disk geometry, file system
+  comparisons, forensic and data recovery tools, and action plans for
+  customers, system administrators and programmers, and red teams.

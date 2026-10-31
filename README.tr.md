@@ -62,6 +62,7 @@ oluşur. [ABD İngilizcesi README](<README.md>) dosyası da mevcuttur.
 ### Dosya Sistemleri
 
 - [Dosya sistemi ve Linux üzerinde dosya sistemi geliştirme rehberi](<fs/dosya_sistemi_rehberi.pdf>) ([Markdown](<fs/dosya_sistemi_rehberi.md>))
+- [Disk güvenliği, dosya sistemleri (ZFS ve Ceph odaklı) ve adli bilişim rehberi](<fs/disk_ve_veri_guvenligi_rehberi.pdf>) ([Markdown](<fs/disk_ve_veri_guvenligi_rehberi.md>))
 - [Debian PSD UMFS rehberi](<fs/debianpsdumfs.pdf>) ([Markdown](<fs/debianpsdumfs.md>))
 - [UMFS teorisi](<fs/umfs/umfs_theory.pdf>) ([Markdown](<fs/umfs/umfs_theory.md>))
 - [UMFS bindings](<fs/umfs/bu yapida bindings ne anlama gelir.pdf>) ([Markdown](<fs/umfs/bu yapida bindings ne anlama gelir.md>))
@@ -137,6 +138,9 @@ Depoda ilk commit'ten son proje commit'ine kadar yapılan değişikliklerin
 - **28 Ekim 2026:** `massforge/` altına C/C++ ve GNU Assembler odaklı,
   yüksek performanslı bir Git ve CI/CD platformunun mimari tasarımını anlatan
   Türkçe belge, Markdown ve PDF biçiminde eklendi.
+- **31 Ekim 2026:** `fs/disk_ve_veri_guvenligi_rehberi` eklendi; disk
+  güvenliğini, ZFS ve Ceph odaklı dosya sistemlerini ve adli bilişimi ele alan
+  Türkçe rehber, Markdown ve PDF biçiminde sunuldu.
 
 [ChangeLog](<ChangeLog>), ilk commit'ten son proje commit'ine kadar olan
 değişiklikleri tarih sırasıyla ve eklenen belgelerin adlarıyla kaydeder.

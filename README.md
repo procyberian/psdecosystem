@@ -62,6 +62,7 @@ plain-text proposal. The [Turkish README](<README.tr.md>) is also available.
 ### File Systems
 
 - [File system and Linux file system development guide (Turkish)](<fs/dosya_sistemi_rehberi.pdf>) ([Markdown](<fs/dosya_sistemi_rehberi.md>))
+- [Disk security, file systems (ZFS and Ceph focus), and digital forensics guide (Turkish)](<fs/disk_ve_veri_guvenligi_rehberi.pdf>) ([Markdown](<fs/disk_ve_veri_guvenligi_rehberi.md>))
 - [Debian PSD UMFS guide](<fs/debianpsdumfs.pdf>) ([Markdown](<fs/debianpsdumfs.md>))
 - [UMFS theory (Turkish)](<fs/umfs/umfs_theory.pdf>) ([Markdown](<fs/umfs/umfs_theory.md>))
 - [UMFS bindings (Turkish)](<fs/umfs/bu yapida bindings ne anlama gelir.pdf>) ([Markdown](<fs/umfs/bu yapida bindings ne anlama gelir.md>))
@@ -139,6 +140,9 @@ below:
 - **October 28, 2026:** Added `massforge/`, a Turkish-language architecture
   design for a high-performance C/C++ and GNU Assembler Git and CI/CD
   platform, in Markdown and PDF formats.
+- **October 31, 2026:** Added `fs/disk_ve_veri_guvenligi_rehberi`, a
+  Turkish-language guide to disk security, file systems with a ZFS and Ceph
+  focus, and digital forensics, in Markdown and PDF formats.
 
 The [ChangeLog](<ChangeLog>) records changes from the first commit through
 the latest project commit and names the documents added at each stage.
