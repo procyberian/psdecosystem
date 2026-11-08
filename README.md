@@ -14,6 +14,7 @@ plain-text proposal. The [Turkish README](<README.tr.md>) is also available.
 - [PSD Ecosystem, document 3](<ecosystem/PSD_Ecosystem3.pdf>)
 - [What Is PSD?](<ecosystem/psdnedir.pdf>)
 - [Civilian PSD GNU/Linux Copyleft](<ecosystem/psdgnulinux_sivil_copyleft.pdf>)
+- [Companies that modify the Linux kernel and why (Turkish)](<ecosystem/linux_kernel_modifikasyonlari.pdf>)
 
 ### User Interfaces and Development
 
@@ -143,6 +144,9 @@ below:
 - **October 31, 2026:** Added `fs/disk_ve_veri_guvenligi_rehberi`, a
   Turkish-language guide to disk security, file systems with a ZFS and Ceph
   focus, and digital forensics, in Markdown and PDF formats.
+- **November 8, 2026:** Added `ecosystem/linux_kernel_modifikasyonlari.pdf`, a
+  Turkish-language overview of the companies that modify the Linux kernel and
+  their motivations, in PDF format.
 
 The [ChangeLog](<ChangeLog>) records changes from the first commit through
 the latest project commit and names the documents added at each stage.

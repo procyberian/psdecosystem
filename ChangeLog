@@ -131,3 +131,12 @@ Commit subjects are summarized in American English.
   focus), and digital forensics, covering disk geometry, file system
   comparisons, forensic and data recovery tools, and action plans for
   customers, system administrators and programmers, and red teams.
+
+## 2026-11-08
+
+- Added `ecosystem/linux_kernel_modifikasyonlari.pdf`: a Turkish-language
+  overview of the companies that modify and maintain the Linux kernel (such
+  as Red Hat, Microsoft, Meta, Canonical, Intel, AMD, NVIDIA, and SUSE) and
+  why they do so, covering fleet scaling, networking and low latency,
+  hardware integration, security hardening with live patching, and upstream
+  contributions.

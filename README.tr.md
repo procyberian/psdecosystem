@@ -14,6 +14,7 @@ oluşur. [ABD İngilizcesi README](<README.md>) dosyası da mevcuttur.
 - [PSD Ekosistemi, 3. belge](<ecosystem/PSD_Ecosystem3.pdf>)
 - [PSD nedir?](<ecosystem/psdnedir.pdf>)
 - [Sivil PSD GNU/Linux Copyleft](<ecosystem/psdgnulinux_sivil_copyleft.pdf>)
+- [Linux çekirdeğini modifiye eden şirketler ve amaçları](<ecosystem/linux_kernel_modifikasyonlari.pdf>)
 
 ### Kullanıcı Arayüzleri ve Geliştirme
 
@@ -141,6 +142,9 @@ Depoda ilk commit'ten son proje commit'ine kadar yapılan değişikliklerin
 - **31 Ekim 2026:** `fs/disk_ve_veri_guvenligi_rehberi` eklendi; disk
   güvenliğini, ZFS ve Ceph odaklı dosya sistemlerini ve adli bilişimi ele alan
   Türkçe rehber, Markdown ve PDF biçiminde sunuldu.
+- **8 Kasım 2026:** `ecosystem/linux_kernel_modifikasyonlari.pdf` eklendi;
+  Linux çekirdeğini modifiye eden şirketleri ve amaçlarını anlatan Türkçe
+  genel bakış, PDF biçiminde sunuldu.
 
 [ChangeLog](<ChangeLog>), ilk commit'ten son proje commit'ine kadar olan
 değişiklikleri tarih sırasıyla ve eklenen belgelerin adlarıyla kaydeder.
