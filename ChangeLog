@@ -140,3 +140,11 @@ Commit subjects are summarized in American English.
   why they do so, covering fleet scaling, networking and low latency,
   hardware integration, security hardening with live patching, and upstream
   contributions.
+
+## 2026-11-10
+
+- Added `kernel/psdexploit` in editable ODT and PDF formats: a Turkish-language
+  roadmap for entering Linux kernel security through kernel development rather
+  than exploit writing, covering kernel internals, building and debugging with
+  QEMU, KASAN, syzkaller fuzzing, CVE root cause analysis, mitigations, and
+  responsible disclosure.

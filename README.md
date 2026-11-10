@@ -27,6 +27,7 @@ plain-text proposal. The [Turkish README](<README.tr.md>) is also available.
 - [Hurd](<kernel/hurd.pdf>)
 - [Linux and C++](<kernel/linuxcpp.pdf>)
 - [Memory Management with C++](<kernel/memcpp.pdf>)
+- [Linux kernel security learning roadmap: from kernel development to responsible research (Turkish)](<kernel/psdexploit.pdf>) ([editable ODT](<kernel/psdexploit.odt>))
 - [Network Subsystem for Linux](<networking/network subsystem for linux.pdf>)
 - [Unix Development](<unix/unixdev.pdf>) ([editable ODT](<unix/unixdev.odt>))
 
@@ -147,6 +148,9 @@ below:
 - **November 8, 2026:** Added `ecosystem/linux_kernel_modifikasyonlari.pdf`, a
   Turkish-language overview of the companies that modify the Linux kernel and
   their motivations, in PDF format.
+- **November 10, 2026:** Added `kernel/psdexploit`, a Turkish-language Linux
+  kernel security learning roadmap that favors kernel development, debugging,
+  fuzzing, and responsible disclosure, in editable ODT and PDF formats.
 
 The [ChangeLog](<ChangeLog>) records changes from the first commit through
 the latest project commit and names the documents added at each stage.

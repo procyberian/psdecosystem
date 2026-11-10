@@ -27,6 +27,7 @@ oluşur. [ABD İngilizcesi README](<README.md>) dosyası da mevcuttur.
 - [Hurd](<kernel/hurd.pdf>)
 - [Linux ve C++](<kernel/linuxcpp.pdf>)
 - [C++ ile bellek yönetimi](<kernel/memcpp.pdf>)
+- [Linux çekirdeği güvenliği öğrenme yol haritası: çekirdek geliştirmeden sorumlu araştırmaya](<kernel/psdexploit.pdf>) ([düzenlenebilir ODT](<kernel/psdexploit.odt>))
 - [Linux için ağ alt sistemi](<networking/network subsystem for linux.pdf>)
 - [Unix geliştirme](<unix/unixdev.pdf>) ([düzenlenebilir ODT](<unix/unixdev.odt>))
 
@@ -145,6 +146,9 @@ Depoda ilk commit'ten son proje commit'ine kadar yapılan değişikliklerin
 - **8 Kasım 2026:** `ecosystem/linux_kernel_modifikasyonlari.pdf` eklendi;
   Linux çekirdeğini modifiye eden şirketleri ve amaçlarını anlatan Türkçe
   genel bakış, PDF biçiminde sunuldu.
+- **10 Kasım 2026:** `kernel/psdexploit` eklendi; çekirdek geliştirme, hata
+  ayıklama, fuzzing ve sorumlu açıklamayı öne çıkaran Türkçe Linux çekirdeği
+  güvenliği öğrenme yol haritası, düzenlenebilir ODT ve PDF biçiminde sunuldu.
 
 [ChangeLog](<ChangeLog>), ilk commit'ten son proje commit'ine kadar olan
 değişiklikleri tarih sırasıyla ve eklenen belgelerin adlarıyla kaydeder.
