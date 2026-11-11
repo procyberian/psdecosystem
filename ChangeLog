@@ -148,3 +148,12 @@ Commit subjects are summarized in American English.
   than exploit writing, covering kernel internals, building and debugging with
   QEMU, KASAN, syzkaller fuzzing, CVE root cause analysis, mitigations, and
   responsible disclosure.
+
+## 2026-11-11
+
+- Added `networking/federated-irc-architecture-guide.pdf`: an English-language
+  guide to federated text-based chat network architecture and IRC automation,
+  covering IRC bots on Libera.Chat, multi-server IRC linking with IRCd and
+  services software, a comparison with open federation, the design of a custom
+  federated text-only protocol, and a multi-language Linux implementation stack
+  using GNU Assembler, C, C++, Go, GNU Guile, and Python.

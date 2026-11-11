@@ -29,6 +29,7 @@ plain-text proposal. The [Turkish README](<README.tr.md>) is also available.
 - [Memory Management with C++](<kernel/memcpp.pdf>)
 - [Linux kernel security learning roadmap: from kernel development to responsible research (Turkish)](<kernel/psdexploit.pdf>) ([editable ODT](<kernel/psdexploit.odt>))
 - [Network Subsystem for Linux](<networking/network subsystem for linux.pdf>)
+- [Federated text-based chat network architecture and IRC automation guide (English)](<networking/federated-irc-architecture-guide.pdf>)
 - [Unix Development](<unix/unixdev.pdf>) ([editable ODT](<unix/unixdev.odt>))
 
 ### Lisp and Shell Languages
@@ -151,6 +152,9 @@ below:
 - **November 10, 2026:** Added `kernel/psdexploit`, a Turkish-language Linux
   kernel security learning roadmap that favors kernel development, debugging,
   fuzzing, and responsible disclosure, in editable ODT and PDF formats.
+- **November 11, 2026:** Added `networking/federated-irc-architecture-guide.pdf`,
+  an English-language guide to federated text-based chat network architecture
+  and IRC automation, in PDF format.
 
 The [ChangeLog](<ChangeLog>) records changes from the first commit through
 the latest project commit and names the documents added at each stage.

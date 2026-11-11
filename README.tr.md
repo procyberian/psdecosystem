@@ -29,6 +29,7 @@ oluşur. [ABD İngilizcesi README](<README.md>) dosyası da mevcuttur.
 - [C++ ile bellek yönetimi](<kernel/memcpp.pdf>)
 - [Linux çekirdeği güvenliği öğrenme yol haritası: çekirdek geliştirmeden sorumlu araştırmaya](<kernel/psdexploit.pdf>) ([düzenlenebilir ODT](<kernel/psdexploit.odt>))
 - [Linux için ağ alt sistemi](<networking/network subsystem for linux.pdf>)
+- [Federe metin tabanlı sohbet ağı mimarisi ve IRC otomasyonu rehberi (İngilizce)](<networking/federated-irc-architecture-guide.pdf>)
 - [Unix geliştirme](<unix/unixdev.pdf>) ([düzenlenebilir ODT](<unix/unixdev.odt>))
 
 ### Lisp ve Kabuk Dilleri
@@ -149,6 +150,9 @@ Depoda ilk commit'ten son proje commit'ine kadar yapılan değişikliklerin
 - **10 Kasım 2026:** `kernel/psdexploit` eklendi; çekirdek geliştirme, hata
   ayıklama, fuzzing ve sorumlu açıklamayı öne çıkaran Türkçe Linux çekirdeği
   güvenliği öğrenme yol haritası, düzenlenebilir ODT ve PDF biçiminde sunuldu.
+- **11 Kasım 2026:** `networking/federated-irc-architecture-guide.pdf` eklendi;
+  federe metin tabanlı sohbet ağı mimarisini ve IRC otomasyonunu anlatan
+  İngilizce rehber, PDF biçiminde sunuldu.
 
 [ChangeLog](<ChangeLog>), ilk commit'ten son proje commit'ine kadar olan
 değişiklikleri tarih sırasıyla ve eklenen belgelerin adlarıyla kaydeder.
