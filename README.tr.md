@@ -4,6 +4,8 @@ Bu depo, PSD Ekosistemi ile ilgili proje, yazılım, altyapı ve lisans
 belgelerini bir araya getirir. İçerik ağırlıklı olarak PDF yayınlarından,
 bunun yanında düzenlenebilir ODT belgelerinden ve düz metin bir öneriden
 oluşur. [ABD İngilizcesi README](<README.md>) dosyası da mevcuttur.
+Bu belge Türkiye Türkçesiyle yazılmıştır; İngilizce sürüm ise hafif ve
+konuşma diline yakın bir New York üslubunda ABD İngilizcesi kullanır.
 
 ## Belge Kütüphanesi
 
@@ -34,11 +36,11 @@ oluşur. [ABD İngilizcesi README](<README.md>) dosyası da mevcuttur.
 
 ### Lisp ve Kabuk Dilleri
 
-- [QShell deposunu inceleme rehberi](<lısp/bu depoda dikkat etmem gereken yerler nelerdir qsh.pdf>) ([Markdown](<lısp/bu depoda dikkat etmem gereken yerler nelerdir qsh.md>)): Guile tabanlı mimariyi, incelenmesi gereken temel dizinleri ve sistem betiklerinde QShell kullanımını ele alan Türkçe bir rehber.
+- [QShell deposunu inceleme rehberi](<lisp/bu depoda dikkat etmem gereken yerler nelerdir qsh.pdf>) ([Markdown](<lisp/bu depoda dikkat etmem gereken yerler nelerdir qsh.md>)): Guile tabanlı mimariyi, incelenmesi gereken temel dizinleri ve sistem betiklerinde QShell kullanımını ele alan Türkçe bir rehber.
 
 ### Dağıtım Planlaması
 
-- [PSD deposu değerlendirmesi ve mimari görünümü](<distro/bu depoda dikkat etmem gereken yerler nelerdir qsh 1.pdf>) ([Markdown](<distro/bu depoda dikkat etmem gereken yerler nelerdir qsh 1.md>)): Depoyu tasarım belgeleri olarak değerlendiren, öngörülen Çekirdek, UMFS, Guile ve QShell katmanlarını ve önerilen öncelikleri ele alan Türkçe belge.
+- [PSD deposu değerlendirmesi ve mimari görünümü](<distributions/bu depoda dikkat etmem gereken yerler nelerdir qsh 1.pdf>) ([Markdown](<distributions/bu depoda dikkat etmem gereken yerler nelerdir qsh 1.md>)): Depoyu tasarım belgeleri olarak değerlendiren, öngörülen Çekirdek, UMFS, Guile ve QShell katmanlarını ve önerilen öncelikleri ele alan Türkçe belge.
 
 ### MassForge
 
@@ -64,17 +66,17 @@ oluşur. [ABD İngilizcesi README](<README.md>) dosyası da mevcuttur.
 
 ### Dosya Sistemleri
 
-- [Dosya sistemi ve Linux üzerinde dosya sistemi geliştirme rehberi](<fs/dosya_sistemi_rehberi.pdf>) ([Markdown](<fs/dosya_sistemi_rehberi.md>))
-- [Disk güvenliği, dosya sistemleri (ZFS ve Ceph odaklı) ve adli bilişim rehberi](<fs/disk_ve_veri_guvenligi_rehberi.pdf>) ([Markdown](<fs/disk_ve_veri_guvenligi_rehberi.md>))
-- [Debian PSD UMFS rehberi](<fs/debianpsdumfs.pdf>) ([Markdown](<fs/debianpsdumfs.md>))
-- [UMFS teorisi](<fs/umfs/umfs_theory.pdf>) ([Markdown](<fs/umfs/umfs_theory.md>))
-- [UMFS bindings](<fs/umfs/bu yapida bindings ne anlama gelir.pdf>) ([Markdown](<fs/umfs/bu yapida bindings ne anlama gelir.md>))
-- [UMFS bindings, bölüm 1: Guile](<fs/umfs/bu yapida bindings ne anlama gelir 1.pdf>) ([Markdown](<fs/umfs/bu yapida bindings ne anlama gelir 1.md>))
-- [UMFS bindings, bölüm 2: lisanslama](<fs/umfs/bu yapida bindings ne anlama gelir 2.pdf>) ([Markdown](<fs/umfs/bu yapida bindings ne anlama gelir 2.md>))
-- [ext2/ext3 kod analizi](<fs/ext2-3/ext2fs_kod_analizi.pdf>) ([Markdown](<fs/ext2-3/ext2fs_kod_analizi.md>))
-- [Hurd dosya sistemi kılavuzu](<fs/hurd/hurd_filesystem_guide.pdf>) ([Markdown](<fs/hurd/hurd_filesystem_guide.md>))
-- [PSD dosya sistemi kılavuzu](<fs/psdfs/psd_dosya_sistemi_kilavuzu.pdf>) ([Markdown](<fs/psdfs/psd_dosya_sistemi_kilavuzu.md>))
-- [ReFS ve Windows dosya sistemleri raporu](<fs/windowsfs/refs_ve_windows_dosya_sistemleri_raporu.pdf>) ([Markdown](<fs/windowsfs/refs_ve_windows_dosya_sistemleri_raporu.md>))
+- [Dosya sistemi ve Linux üzerinde dosya sistemi geliştirme rehberi](<filesystems/dosya_sistemi_rehberi.pdf>) ([Markdown](<filesystems/dosya_sistemi_rehberi.md>))
+- [Disk güvenliği, dosya sistemleri (ZFS ve Ceph odaklı) ve adli bilişim rehberi](<filesystems/disk_ve_veri_guvenligi_rehberi.pdf>) ([Markdown](<filesystems/disk_ve_veri_guvenligi_rehberi.md>))
+- [Debian PSD UMFS rehberi](<filesystems/debianpsdumfs.pdf>) ([Markdown](<filesystems/debianpsdumfs.md>))
+- [UMFS teorisi](<filesystems/umfs/umfs_theory.pdf>) ([Markdown](<filesystems/umfs/umfs_theory.md>))
+- [UMFS bindings](<filesystems/umfs/bu yapida bindings ne anlama gelir.pdf>) ([Markdown](<filesystems/umfs/bu yapida bindings ne anlama gelir.md>))
+- [UMFS bindings, bölüm 1: Guile](<filesystems/umfs/bu yapida bindings ne anlama gelir 1.pdf>) ([Markdown](<filesystems/umfs/bu yapida bindings ne anlama gelir 1.md>))
+- [UMFS bindings, bölüm 2: lisanslama](<filesystems/umfs/bu yapida bindings ne anlama gelir 2.pdf>) ([Markdown](<filesystems/umfs/bu yapida bindings ne anlama gelir 2.md>))
+- [ext2/ext3 kod analizi](<filesystems/ext2-3/ext2fs_kod_analizi.pdf>) ([Markdown](<filesystems/ext2-3/ext2fs_kod_analizi.md>))
+- [Hurd dosya sistemi kılavuzu](<filesystems/hurd/hurd_filesystem_guide.pdf>) ([Markdown](<filesystems/hurd/hurd_filesystem_guide.md>))
+- [PSD dosya sistemi kılavuzu](<filesystems/psdfs/psd_dosya_sistemi_kilavuzu.pdf>) ([Markdown](<filesystems/psdfs/psd_dosya_sistemi_kilavuzu.md>))
+- [ReFS ve Windows dosya sistemleri raporu](<filesystems/windowsfs/refs_ve_windows_dosya_sistemleri_raporu.pdf>) ([Markdown](<filesystems/windowsfs/refs_ve_windows_dosya_sistemleri_raporu.md>))
 
 ### Toplum ve Lisans Analizi
 
@@ -84,9 +86,9 @@ oluşur. [ABD İngilizcesi README](<README.md>) dosyası da mevcuttur.
 
 ### Bellek
 
-- [Bellek genel bakışı](<bellek/bellek.pdf>)
-- [Bellek ayırma, 1. belge](<bellek/malloc_1.pdf>)
-- [Bellek ayırma, 2. belge](<bellek/malloc_2.pdf>)
+- [Bellek genel bakışı](<memory/bellek.pdf>)
+- [Bellek ayırma, 1. belge](<memory/malloc_1.pdf>)
+- [Bellek ayırma, 2. belge](<memory/malloc_2.pdf>)
 
 ## Proje Geçmişi
 
@@ -109,14 +111,14 @@ Depoda ilk commit'ten son proje commit'ine kadar yapılan değişikliklerin
 - **12 Ekim 2026:** BNGPL 2.0 ve 3.0 yayımlandı; kök lisans ve README
   güncellendi. Askerî BNGPL belgeleri eklendi ve sivil PSD GNU/Linux
   copyleft yayını için AGPLv3-or-later istisnası kaydedildi.
-- **18 Ekim 2026:** `bellek/` altına üç bellek yayını eklendi.
+- **18 Ekim 2026:** `memory/` altına üç bellek yayını eklendi.
 - **18 Ekim 2026:** AGPL 3.0 lisans metni eklendi; proje geçmişi ve lisans
   koşulları belgelerde açıklandı.
 - **18 Ekim 2026:** *Çekirdek Programlama 101* yayını eklendi.
 - **18 Ekim 2026:** Çerçeve tabanlı ile işletim sistemine entegre yapay zekayı
   anlatan `work.pdf` ve Linux çekirdeğini çatallamayı, GPLv2, GPLv3 ve AGPLv3
   lisanslama sonuçlarıyla birlikte ele alan `linuxgnudevelopers.pdf` eklendi.
-- **24 Ekim 2026:** `fs/` altına ext2/ext3, Hurd, PSD ve ReFS/Windows dosya
+- **24 Ekim 2026:** `filesystems/` altına ext2/ext3, Hurd, PSD ve ReFS/Windows dosya
   sistemlerini kapsayan, her biri Markdown ve PDF biçiminde dosya sistemi
   belgeleri eklendi.
 - **25 Ekim 2026:** `society/` altına AGPL ve BNGPL lisanslarını Marksist
@@ -126,22 +128,22 @@ Depoda ilk commit'ten son proje commit'ine kadar yapılan değişikliklerin
   olmak üzere, Markdown ve PDF biçiminde eklendi.
 - **26 Ekim 2026:** Yayınlar konu klasörlerinde düzenlendi; dosya sistemi ve
   toplum belgeleri mevcut konu klasörlerinde bırakıldı.
-- **26 Ekim 2026:** `fs/umfs/umfs_theory` eklendi; UMFS (Universal Massive
+- **26 Ekim 2026:** `filesystems/umfs/umfs_theory` eklendi; UMFS (Universal Massive
   File System) tasarımını, çekirdek ve sistem betik katmanlarını ve yapay zeka
   değerlendirmelerini ele alan Türkçe belge, Markdown ve PDF biçiminde sunuldu.
-- **26 Ekim 2026:** `fs/umfs/` altına dil bağlayıcılarını (bindings), Guile'ın
+- **26 Ekim 2026:** `filesystems/umfs/` altına dil bağlayıcılarını (bindings), Guile'ın
   gömülü Lisp motoru olarak kullanımını ve GNU AGPL v3 veya üzeri lisanslamayı
   ele alan üç Türkçe UMFS notu, Markdown ve PDF biçiminde eklendi.
 - **26 Ekim 2026:** Guile tabanlı mimariyi, incelenmesi gereken temel
   dizinleri ve sistem betiklerinde QShell kullanımını ele alan Türkçe QShell
   depo rehberi Markdown ve PDF biçimlerinde eklendi.
-- **26 Ekim 2026:** `distro/` altına depoyu ve öngörülen Çekirdek, UMFS, Guile
+- **26 Ekim 2026:** `distributions/` altına depoyu ve öngörülen Çekirdek, UMFS, Guile
   ve QShell mimarisini değerlendiren Türkçe belge, Markdown ve PDF biçiminde
   eklendi.
 - **28 Ekim 2026:** `massforge/` altına C/C++ ve GNU Assembler odaklı,
   yüksek performanslı bir Git ve CI/CD platformunun mimari tasarımını anlatan
   Türkçe belge, Markdown ve PDF biçiminde eklendi.
-- **31 Ekim 2026:** `fs/disk_ve_veri_guvenligi_rehberi` eklendi; disk
+- **31 Ekim 2026:** `filesystems/disk_ve_veri_guvenligi_rehberi` eklendi; disk
   güvenliğini, ZFS ve Ceph odaklı dosya sistemlerini ve adli bilişimi ele alan
   Türkçe rehber, Markdown ve PDF biçiminde sunuldu.
 - **8 Kasım 2026:** `ecosystem/linux_kernel_modifikasyonlari.pdf` eklendi;
@@ -153,6 +155,9 @@ Depoda ilk commit'ten son proje commit'ine kadar yapılan değişikliklerin
 - **11 Kasım 2026:** `networking/federated-irc-architecture-guide.pdf` eklendi;
   federe metin tabanlı sohbet ağı mimarisini ve IRC otomasyonunu anlatan
   İngilizce rehber, PDF biçiminde sunuldu.
+- **11 Kasım 2026:** `bellek/`, `distro/`, `fs/` ve `lısp/` klasörleri sırasıyla
+  `memory/`, `distributions/`, `filesystems/` ve `lisp/` olarak yeniden
+  adlandırıldı; README bağlantıları güncellendi, dosya adları korundu.
 
 [ChangeLog](<ChangeLog>), ilk commit'ten son proje commit'ine kadar olan
 değişiklikleri tarih sırasıyla ve eklenen belgelerin adlarıyla kaydeder.

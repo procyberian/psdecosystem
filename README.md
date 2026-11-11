@@ -4,6 +4,8 @@ This repository collects project, software, infrastructure, and licensing
 documents related to the PSD Ecosystem. It currently consists primarily of
 PDF publications, with a small number of editable ODT documents and a
 plain-text proposal. The [Turkish README](<README.tr.md>) is also available.
+This edition uses American English with a light, conversational New York feel:
+plainspoken and direct, never dressed up in forced slang.
 
 ## Document Library
 
@@ -34,11 +36,11 @@ plain-text proposal. The [Turkish README](<README.tr.md>) is also available.
 
 ### Lisp and Shell Languages
 
-- [QShell repository exploration guide (Turkish)](<lısp/bu depoda dikkat etmem gereken yerler nelerdir qsh.pdf>) ([Markdown](<lısp/bu depoda dikkat etmem gereken yerler nelerdir qsh.md>)): an overview of the Guile-based architecture and areas to examine when developing QShell for system scripting.
+- [QShell repository exploration guide (Turkish)](<lisp/bu depoda dikkat etmem gereken yerler nelerdir qsh.pdf>) ([Markdown](<lisp/bu depoda dikkat etmem gereken yerler nelerdir qsh.md>)): an overview of the Guile-based architecture and areas to examine when developing QShell for system scripting.
 
 ### Distribution Planning
 
-- [PSD repository assessment and architecture outlook (Turkish)](<distro/bu depoda dikkat etmem gereken yerler nelerdir qsh 1.pdf>) ([Markdown](<distro/bu depoda dikkat etmem gereken yerler nelerdir qsh 1.md>)): an assessment of the repository as design documentation, the envisioned Kernel, UMFS, Guile, and QShell layering, and suggested priorities.
+- [PSD repository assessment and architecture outlook (Turkish)](<distributions/bu depoda dikkat etmem gereken yerler nelerdir qsh 1.pdf>) ([Markdown](<distributions/bu depoda dikkat etmem gereken yerler nelerdir qsh 1.md>)): an assessment of the repository as design documentation, the envisioned Kernel, UMFS, Guile, and QShell layering, and suggested priorities.
 
 ### MassForge
 
@@ -64,17 +66,17 @@ plain-text proposal. The [Turkish README](<README.tr.md>) is also available.
 
 ### File Systems
 
-- [File system and Linux file system development guide (Turkish)](<fs/dosya_sistemi_rehberi.pdf>) ([Markdown](<fs/dosya_sistemi_rehberi.md>))
-- [Disk security, file systems (ZFS and Ceph focus), and digital forensics guide (Turkish)](<fs/disk_ve_veri_guvenligi_rehberi.pdf>) ([Markdown](<fs/disk_ve_veri_guvenligi_rehberi.md>))
-- [Debian PSD UMFS guide](<fs/debianpsdumfs.pdf>) ([Markdown](<fs/debianpsdumfs.md>))
-- [UMFS theory (Turkish)](<fs/umfs/umfs_theory.pdf>) ([Markdown](<fs/umfs/umfs_theory.md>))
-- [UMFS bindings (Turkish)](<fs/umfs/bu yapida bindings ne anlama gelir.pdf>) ([Markdown](<fs/umfs/bu yapida bindings ne anlama gelir.md>))
-- [UMFS bindings, part 1: Guile (Turkish)](<fs/umfs/bu yapida bindings ne anlama gelir 1.pdf>) ([Markdown](<fs/umfs/bu yapida bindings ne anlama gelir 1.md>))
-- [UMFS bindings, part 2: licensing (Turkish)](<fs/umfs/bu yapida bindings ne anlama gelir 2.pdf>) ([Markdown](<fs/umfs/bu yapida bindings ne anlama gelir 2.md>))
-- [ext2/ext3 code analysis](<fs/ext2-3/ext2fs_kod_analizi.pdf>) ([Markdown](<fs/ext2-3/ext2fs_kod_analizi.md>))
-- [Hurd file system guide](<fs/hurd/hurd_filesystem_guide.pdf>) ([Markdown](<fs/hurd/hurd_filesystem_guide.md>))
-- [PSD file system guide](<fs/psdfs/psd_dosya_sistemi_kilavuzu.pdf>) ([Markdown](<fs/psdfs/psd_dosya_sistemi_kilavuzu.md>))
-- [ReFS and Windows file systems report](<fs/windowsfs/refs_ve_windows_dosya_sistemleri_raporu.pdf>) ([Markdown](<fs/windowsfs/refs_ve_windows_dosya_sistemleri_raporu.md>))
+- [File system and Linux file system development guide (Turkish)](<filesystems/dosya_sistemi_rehberi.pdf>) ([Markdown](<filesystems/dosya_sistemi_rehberi.md>))
+- [Disk security, file systems (ZFS and Ceph focus), and digital forensics guide (Turkish)](<filesystems/disk_ve_veri_guvenligi_rehberi.pdf>) ([Markdown](<filesystems/disk_ve_veri_guvenligi_rehberi.md>))
+- [Debian PSD UMFS guide](<filesystems/debianpsdumfs.pdf>) ([Markdown](<filesystems/debianpsdumfs.md>))
+- [UMFS theory (Turkish)](<filesystems/umfs/umfs_theory.pdf>) ([Markdown](<filesystems/umfs/umfs_theory.md>))
+- [UMFS bindings (Turkish)](<filesystems/umfs/bu yapida bindings ne anlama gelir.pdf>) ([Markdown](<filesystems/umfs/bu yapida bindings ne anlama gelir.md>))
+- [UMFS bindings, part 1: Guile (Turkish)](<filesystems/umfs/bu yapida bindings ne anlama gelir 1.pdf>) ([Markdown](<filesystems/umfs/bu yapida bindings ne anlama gelir 1.md>))
+- [UMFS bindings, part 2: licensing (Turkish)](<filesystems/umfs/bu yapida bindings ne anlama gelir 2.pdf>) ([Markdown](<filesystems/umfs/bu yapida bindings ne anlama gelir 2.md>))
+- [ext2/ext3 code analysis](<filesystems/ext2-3/ext2fs_kod_analizi.pdf>) ([Markdown](<filesystems/ext2-3/ext2fs_kod_analizi.md>))
+- [Hurd file system guide](<filesystems/hurd/hurd_filesystem_guide.pdf>) ([Markdown](<filesystems/hurd/hurd_filesystem_guide.md>))
+- [PSD file system guide](<filesystems/psdfs/psd_dosya_sistemi_kilavuzu.pdf>) ([Markdown](<filesystems/psdfs/psd_dosya_sistemi_kilavuzu.md>))
+- [ReFS and Windows file systems report](<filesystems/windowsfs/refs_ve_windows_dosya_sistemleri_raporu.pdf>) ([Markdown](<filesystems/windowsfs/refs_ve_windows_dosya_sistemleri_raporu.md>))
 
 ### Society and Licensing Analysis
 
@@ -84,9 +86,9 @@ plain-text proposal. The [Turkish README](<README.tr.md>) is also available.
 
 ### Memory
 
-- [Memory overview](<bellek/bellek.pdf>)
-- [Memory allocation, document 1](<bellek/malloc_1.pdf>)
-- [Memory allocation, document 2](<bellek/malloc_2.pdf>)
+- [Memory overview](<memory/bellek.pdf>)
+- [Memory allocation, document 1](<memory/malloc_1.pdf>)
+- [Memory allocation, document 2](<memory/malloc_2.pdf>)
 
 ## Project History
 
@@ -118,7 +120,7 @@ below:
   OS-integrated AI, and `linuxgnudevelopers.pdf` on forking the Linux kernel
   and its GPLv2, GPLv3, and AGPLv3 licensing implications.
 - **October 24, 2026:** Added a file system documentation section under
-  `fs/` covering ext2/ext3, Hurd, PSD, and ReFS/Windows file systems, each in
+  `filesystems/` covering ext2/ext3, Hurd, PSD, and ReFS/Windows file systems, each in
   Markdown and PDF formats.
 - **October 25, 2026:** Added `society/`, a Turkish-language comparison of the
   AGPL and BNGPL licenses from a Marxist perspective, in Markdown and PDF
@@ -128,22 +130,22 @@ below:
   version, in Markdown and PDF formats.
 - **October 26, 2026:** Organized publications into topic folders while
   retaining the existing file-system and society documentation folders.
-- **October 26, 2026:** Added `fs/umfs/umfs_theory`, a Turkish-language UMFS
+- **October 26, 2026:** Added `filesystems/umfs/umfs_theory`, a Turkish-language UMFS
   design discussion covering the kernel and system scripting layers and AI
   considerations, in Markdown and PDF formats.
 - **October 26, 2026:** Added three Turkish-language UMFS notes under
-  `fs/umfs/` on language bindings, embedding Guile as a Lisp engine, and
+  `filesystems/umfs/` on language bindings, embedding Guile as a Lisp engine, and
   AGPL v3 or later licensing, in Markdown and PDF formats.
 - **October 26, 2026:** Added a Turkish-language QShell repository guide in
   Markdown and PDF formats, covering the Guile-based architecture, key
   directories, and system scripting considerations.
 - **October 26, 2026:** Added a Turkish-language assessment of the repository
   and the envisioned Kernel, UMFS, Guile, and QShell architecture under
-  `distro/`, in Markdown and PDF formats.
+  `distributions/`, in Markdown and PDF formats.
 - **October 28, 2026:** Added `massforge/`, a Turkish-language architecture
   design for a high-performance C/C++ and GNU Assembler Git and CI/CD
   platform, in Markdown and PDF formats.
-- **October 31, 2026:** Added `fs/disk_ve_veri_guvenligi_rehberi`, a
+- **October 31, 2026:** Added `filesystems/disk_ve_veri_guvenligi_rehberi`, a
   Turkish-language guide to disk security, file systems with a ZFS and Ceph
   focus, and digital forensics, in Markdown and PDF formats.
 - **November 8, 2026:** Added `ecosystem/linux_kernel_modifikasyonlari.pdf`, a
@@ -155,6 +157,9 @@ below:
 - **November 11, 2026:** Added `networking/federated-irc-architecture-guide.pdf`,
   an English-language guide to federated text-based chat network architecture
   and IRC automation, in PDF format.
+- **November 11, 2026:** Renamed `bellek/`, `distro/`, `fs/`, and `lısp/` to
+  `memory/`, `distributions/`, `filesystems/`, and `lisp/`, respectively, and
+  updated the README links. File names stayed the same.
 
 The [ChangeLog](<ChangeLog>) records changes from the first commit through
 the latest project commit and names the documents added at each stage.

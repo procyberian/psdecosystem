@@ -1,7 +1,8 @@
 # ChangeLog
 
 This log records every change from the repository's first commit onward.
-Commit subjects are summarized in American English.
+It's written in American English with a light, conversational New York feel:
+plainspoken, direct, and without forced slang.
 
 ## 2026-10-07
 
@@ -157,3 +158,6 @@ Commit subjects are summarized in American English.
   services software, a comparison with open federation, the design of a custom
   federated text-only protocol, and a multi-language Linux implementation stack
   using GNU Assembler, C, C++, Go, GNU Guile, and Python.
+- Renamed topic folders to their English names: `bellek/` to `memory/`,
+  `distro/` to `distributions/`, `fs/` to `filesystems/`, and `lısp/` to
+  `lisp/`. Updated the README links to match; file names stayed as they were.
