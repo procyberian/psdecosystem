@@ -41,6 +41,7 @@ plainspoken and direct, never dressed up in forced slang.
 ### Distribution Planning
 
 - [PSD repository assessment and architecture outlook (Turkish)](<distributions/bu depoda dikkat etmem gereken yerler nelerdir qsh 1.pdf>) ([Markdown](<distributions/bu depoda dikkat etmem gereken yerler nelerdir qsh 1.md>)): an assessment of the repository as design documentation, the envisioned Kernel, UMFS, Guile, and QShell layering, and suggested priorities.
+- [Git platform release workflows, APIs, and open-source status (Turkish)](<distributions/release_tools.pdf>): an overview of release processes on GitHub, GitLab, Forgejo, and Codeberg, the APIs used by CLI tools, platform licensing, and OpenAPI specifications.
 
 ### MassForge
 
@@ -160,6 +161,9 @@ below:
 - **November 11, 2026:** Renamed `bellek/`, `distro/`, `fs/`, and `lısp/` to
   `memory/`, `distributions/`, `filesystems/`, and `lisp/`, respectively, and
   updated the README links. File names stayed the same.
+- **November 12, 2026:** Added `distributions/release_tools.pdf`, a
+  Turkish-language overview of Git platform release workflows, CLI APIs,
+  licensing, and OpenAPI specifications.
 
 The [ChangeLog](<ChangeLog>) records changes from the first commit through
 the latest project commit and names the documents added at each stage.

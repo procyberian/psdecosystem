@@ -161,3 +161,10 @@ plainspoken, direct, and without forced slang.
 - Renamed topic folders to their English names: `bellek/` to `memory/`,
   `distro/` to `distributions/`, `fs/` to `filesystems/`, and `lısp/` to
   `lisp/`. Updated the README links to match; file names stayed as they were.
+
+## 2026-11-12
+
+- Added `distributions/release_tools.pdf`: a Turkish-language overview of
+  release workflows on GitHub, GitLab, Forgejo, and Codeberg, including the
+  public APIs behind CLI release tools, platform and API licensing, and
+  OpenAPI specifications.

@@ -41,6 +41,7 @@ konuşma diline yakın bir New York üslubunda ABD İngilizcesi kullanır.
 ### Dağıtım Planlaması
 
 - [PSD deposu değerlendirmesi ve mimari görünümü](<distributions/bu depoda dikkat etmem gereken yerler nelerdir qsh 1.pdf>) ([Markdown](<distributions/bu depoda dikkat etmem gereken yerler nelerdir qsh 1.md>)): Depoyu tasarım belgeleri olarak değerlendiren, öngörülen Çekirdek, UMFS, Guile ve QShell katmanlarını ve önerilen öncelikleri ele alan Türkçe belge.
+- [Git platformlarında sürüm yayımlama süreçleri, API'ler ve açık kaynak durumu](<distributions/release_tools.pdf>): GitHub, GitLab, Forgejo ve Codeberg üzerindeki sürüm yayımlama süreçlerini, CLI araçlarının kullandığı API'leri, platformların lisans durumunu ve OpenAPI tanımlarını ele alan Türkçe genel bakış.
 
 ### MassForge
 
@@ -158,6 +159,9 @@ Depoda ilk commit'ten son proje commit'ine kadar yapılan değişikliklerin
 - **11 Kasım 2026:** `bellek/`, `distro/`, `fs/` ve `lısp/` klasörleri sırasıyla
   `memory/`, `distributions/`, `filesystems/` ve `lisp/` olarak yeniden
   adlandırıldı; README bağlantıları güncellendi, dosya adları korundu.
+- **12 Kasım 2026:** Git platformlarında sürüm yayımlama süreçlerini,
+  CLI API'lerini, lisans durumlarını ve OpenAPI tanımlarını ele alan Türkçe
+  `distributions/release_tools.pdf` belgesi eklendi.
 
 [ChangeLog](<ChangeLog>), ilk commit'ten son proje commit'ine kadar olan
 değişiklikleri tarih sırasıyla ve eklenen belgelerin adlarıyla kaydeder.
