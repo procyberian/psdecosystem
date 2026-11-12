@@ -171,3 +171,6 @@ plainspoken, direct, and without forced slang.
 - Added `massforge/forgejo-kayit-onay-ayarlari.pdf`: a Turkish-language guide
   to configuring Forgejo registration approval and administrator email
   notifications, including mail settings, service restart, and testing.
+- Added `memory/segmentation_fault_nedir.pdf`: a Turkish-language overview
+  of segmentation faults, common causes, memory protection, and debugging
+  with GDB and Valgrind.

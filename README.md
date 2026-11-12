@@ -91,6 +91,7 @@ plainspoken and direct, never dressed up in forced slang.
 - [Memory overview](<memory/bellek.pdf>)
 - [Memory allocation, document 1](<memory/malloc_1.pdf>)
 - [Memory allocation, document 2](<memory/malloc_2.pdf>)
+- [What is a segmentation fault? (Turkish)](<memory/segmentation_fault_nedir.pdf>): an overview of common causes, memory protection, and debugging with GDB and Valgrind.
 
 ## Project History
 
@@ -168,6 +169,9 @@ below:
 - **November 12, 2026:** Added `massforge/forgejo-kayit-onay-ayarlari.pdf`,
   a Turkish-language guide to Forgejo registration approval and administrator
   email notifications.
+- **November 12, 2026:** Added `memory/segmentation_fault_nedir.pdf`, a
+  Turkish-language overview of segmentation faults, their causes, and
+  debugging tools.
 
 The [ChangeLog](<ChangeLog>) records changes from the first commit through
 the latest project commit and names the documents added at each stage.

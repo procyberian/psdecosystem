@@ -91,6 +91,7 @@ konuşma diline yakın bir New York üslubunda ABD İngilizcesi kullanır.
 - [Bellek genel bakışı](<memory/bellek.pdf>)
 - [Bellek ayırma, 1. belge](<memory/malloc_1.pdf>)
 - [Bellek ayırma, 2. belge](<memory/malloc_2.pdf>)
+- [Segmentation fault nedir?](<memory/segmentation_fault_nedir.pdf>): Yaygın nedenleri, bellek korumasını ve GDB ile Valgrind kullanarak hata ayıklamayı ele alan Türkçe genel bakış.
 
 ## Proje Geçmişi
 
@@ -166,6 +167,9 @@ Depoda ilk commit'ten son proje commit'ine kadar yapılan değişikliklerin
 - **12 Kasım 2026:** Forgejo'da kayıt onayını ve yönetici e-posta
   bildirimlerini yapılandırmayı anlatan Türkçe
   `massforge/forgejo-kayit-onay-ayarlari.pdf` rehberi eklendi.
+- **12 Kasım 2026:** Segmentation fault hatalarını, nedenlerini ve hata
+  ayıklama araçlarını ele alan Türkçe `memory/segmentation_fault_nedir.pdf`
+  belgesi eklendi.
 
 [ChangeLog](<ChangeLog>), ilk commit'ten son proje commit'ine kadar olan
 değişiklikleri tarih sırasıyla ve eklenen belgelerin adlarıyla kaydeder.
