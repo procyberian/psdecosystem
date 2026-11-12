@@ -46,6 +46,7 @@ plainspoken and direct, never dressed up in forced slang.
 ### MassForge
 
 - [Git and CI/CD platform architecture design (Turkish)](<massforge/git_platform_mimari_tasarimi.pdf>) ([Markdown](<massforge/git_platform_mimari_tasarimi.md>)): an architecture roadmap for a high-performance Git and CI/CD platform using C/C++ and GNU Assembler, covering the core, storage, CI/CD engine, web stack, and scaling.
+- [Forgejo registration approval and administrator notification settings (Turkish)](<massforge/forgejo-kayit-onay-ayarlari.pdf>): a guide to configuring registration approval and email notifications, restarting Forgejo, and testing mail delivery.
 
 ### Community, Organizations, and Services
 
@@ -164,6 +165,9 @@ below:
 - **November 12, 2026:** Added `distributions/release_tools.pdf`, a
   Turkish-language overview of Git platform release workflows, CLI APIs,
   licensing, and OpenAPI specifications.
+- **November 12, 2026:** Added `massforge/forgejo-kayit-onay-ayarlari.pdf`,
+  a Turkish-language guide to Forgejo registration approval and administrator
+  email notifications.
 
 The [ChangeLog](<ChangeLog>) records changes from the first commit through
 the latest project commit and names the documents added at each stage.

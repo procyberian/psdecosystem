@@ -46,6 +46,7 @@ konuşma diline yakın bir New York üslubunda ABD İngilizcesi kullanır.
 ### MassForge
 
 - [Git ve CI/CD platformu mimari tasarımı](<massforge/git_platform_mimari_tasarimi.pdf>) ([Markdown](<massforge/git_platform_mimari_tasarimi.md>)): C/C++ ve GNU Assembler odaklı, yüksek performanslı bir Git ve CI/CD platformunun çekirdek, depolama, CI/CD motoru, web teknolojileri ve ölçekleme başlıklarını kapsayan mimari yol haritası.
+- [Forgejo kayıt onayı ve yönetici bildirim ayarları](<massforge/forgejo-kayit-onay-ayarlari.pdf>): Kayıt onayı ve e-posta bildirimlerinin yapılandırılmasını, Forgejo'nun yeniden başlatılmasını ve e-posta gönderiminin test edilmesini anlatan Türkçe rehber.
 
 ### Topluluklar, Kuruluşlar ve Hizmetler
 
@@ -162,6 +163,9 @@ Depoda ilk commit'ten son proje commit'ine kadar yapılan değişikliklerin
 - **12 Kasım 2026:** Git platformlarında sürüm yayımlama süreçlerini,
   CLI API'lerini, lisans durumlarını ve OpenAPI tanımlarını ele alan Türkçe
   `distributions/release_tools.pdf` belgesi eklendi.
+- **12 Kasım 2026:** Forgejo'da kayıt onayını ve yönetici e-posta
+  bildirimlerini yapılandırmayı anlatan Türkçe
+  `massforge/forgejo-kayit-onay-ayarlari.pdf` rehberi eklendi.
 
 [ChangeLog](<ChangeLog>), ilk commit'ten son proje commit'ine kadar olan
 değişiklikleri tarih sırasıyla ve eklenen belgelerin adlarıyla kaydeder.

@@ -168,3 +168,6 @@ plainspoken, direct, and without forced slang.
   release workflows on GitHub, GitLab, Forgejo, and Codeberg, including the
   public APIs behind CLI release tools, platform and API licensing, and
   OpenAPI specifications.
+- Added `massforge/forgejo-kayit-onay-ayarlari.pdf`: a Turkish-language guide
+  to configuring Forgejo registration approval and administrator email
+  notifications, including mail settings, service restart, and testing.
