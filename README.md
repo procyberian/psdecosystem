@@ -2,8 +2,9 @@
 
 This repository collects project, software, infrastructure, and licensing
 documents related to the PSD Ecosystem. It currently consists primarily of
-PDF publications, with a small number of editable ODT documents and a
-plain-text proposal. The [Turkish README](<README.tr.md>) is also available.
+PDF publications, with a small number of editable ODT documents, a PPTX
+presentation, and a plain-text proposal. The [Turkish README](<README.tr.md>)
+is also available.
 This edition uses American English with a light, conversational New York feel:
 plainspoken and direct, never dressed up in forced slang.
 
@@ -33,6 +34,7 @@ plainspoken and direct, never dressed up in forced slang.
 - [Network Subsystem for Linux](<networking/network subsystem for linux.pdf>)
 - [Federated text-based chat network architecture and IRC automation guide (English)](<networking/federated-irc-architecture-guide.pdf>)
 - [Private Matrix and Element deployment guide (English)](<networking/matrix.pdf>): covers server isolation, client customization, LDAP and Active Directory integration, and multiplatform clients.
+- [matrix-rust-sdk presentation (English)](<networking/matrix_rust_sdk_nyc_presentation.pptx>): a presentation on the SDK's architecture, encryption, async bot example, operations, and cross-platform use.
 - [Unix Development](<unix/unixdev.pdf>) ([editable ODT](<unix/unixdev.odt>))
 
 ### Lisp and Shell Languages
@@ -176,6 +178,9 @@ below:
 - **November 12, 2026:** Added `networking/matrix.pdf`, an English-language
   guide to private Matrix and Element deployment, authentication integration,
   server isolation, and client customization.
+- **November 12, 2026:** Added `networking/matrix_rust_sdk_nyc_presentation.pptx`,
+  an English-language presentation on matrix-rust-sdk architecture,
+  encryption, an async bot example, and cross-platform use.
 
 The [ChangeLog](<ChangeLog>) records changes from the first commit through
 the latest project commit and names the documents added at each stage.

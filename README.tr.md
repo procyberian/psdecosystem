@@ -2,8 +2,9 @@
 
 Bu depo, PSD Ekosistemi ile ilgili proje, yazılım, altyapı ve lisans
 belgelerini bir araya getirir. İçerik ağırlıklı olarak PDF yayınlarından,
-bunun yanında düzenlenebilir ODT belgelerinden ve düz metin bir öneriden
-oluşur. [ABD İngilizcesi README](<README.md>) dosyası da mevcuttur.
+bunun yanında düzenlenebilir ODT belgelerinden, bir PPTX sunumundan ve düz
+metin bir öneriden oluşur. [ABD İngilizcesi README](<README.md>) dosyası da
+mevcuttur.
 Bu belge Türkiye Türkçesiyle yazılmıştır; İngilizce sürüm ise hafif ve
 konuşma diline yakın bir New York üslubunda ABD İngilizcesi kullanır.
 
@@ -33,6 +34,7 @@ konuşma diline yakın bir New York üslubunda ABD İngilizcesi kullanır.
 - [Linux için ağ alt sistemi](<networking/network subsystem for linux.pdf>)
 - [Federe metin tabanlı sohbet ağı mimarisi ve IRC otomasyonu rehberi (İngilizce)](<networking/federated-irc-architecture-guide.pdf>)
 - [Özel Matrix ve Element kurulumu rehberi (İngilizce)](<networking/matrix.pdf>): Sunucu yalıtımını, istemci özelleştirmesini, LDAP ve Active Directory entegrasyonunu ve farklı platformlardaki istemcileri ele alır.
+- [matrix-rust-sdk sunumu (İngilizce)](<networking/matrix_rust_sdk_nyc_presentation.pptx>): SDK'nın mimarisini, şifrelemeyi, asenkron bot örneğini, işletim konularını ve platformlar arası kullanımı ele alır.
 - [Unix geliştirme](<unix/unixdev.pdf>) ([düzenlenebilir ODT](<unix/unixdev.odt>))
 
 ### Lisp ve Kabuk Dilleri
@@ -174,6 +176,9 @@ Depoda ilk commit'ten son proje commit'ine kadar yapılan değişikliklerin
 - **12 Kasım 2026:** Özel Matrix ve Element kurulumunu, kimlik doğrulama
   entegrasyonunu, sunucu yalıtımını ve istemci özelleştirmesini anlatan
   İngilizce `networking/matrix.pdf` rehberi eklendi.
+- **12 Kasım 2026:** matrix-rust-sdk mimarisini, şifrelemeyi, asenkron bot
+  örneğini ve platformlar arası kullanımı anlatan İngilizce
+  `networking/matrix_rust_sdk_nyc_presentation.pptx` sunumu eklendi.
 
 [ChangeLog](<ChangeLog>), ilk commit'ten son proje commit'ine kadar olan
 değişiklikleri tarih sırasıyla ve eklenen belgelerin adlarıyla kaydeder.

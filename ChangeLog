@@ -177,3 +177,6 @@ plainspoken, direct, and without forced slang.
 - Added `networking/matrix.pdf`: an English-language guide to private Matrix
   and Element deployment, covering server isolation, client customization,
   LDAP and Active Directory integration, and multiplatform clients.
+- Added `networking/matrix_rust_sdk_nyc_presentation.pptx`: an English-language
+  presentation on matrix-rust-sdk, covering its layered architecture,
+  encryption, an async bot example, operations, and cross-platform use.
