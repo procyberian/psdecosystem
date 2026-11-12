@@ -32,6 +32,7 @@ konuşma diline yakın bir New York üslubunda ABD İngilizcesi kullanır.
 - [Linux çekirdeği güvenliği öğrenme yol haritası: çekirdek geliştirmeden sorumlu araştırmaya](<kernel/psdexploit.pdf>) ([düzenlenebilir ODT](<kernel/psdexploit.odt>))
 - [Linux için ağ alt sistemi](<networking/network subsystem for linux.pdf>)
 - [Federe metin tabanlı sohbet ağı mimarisi ve IRC otomasyonu rehberi (İngilizce)](<networking/federated-irc-architecture-guide.pdf>)
+- [Özel Matrix ve Element kurulumu rehberi (İngilizce)](<networking/matrix.pdf>): Sunucu yalıtımını, istemci özelleştirmesini, LDAP ve Active Directory entegrasyonunu ve farklı platformlardaki istemcileri ele alır.
 - [Unix geliştirme](<unix/unixdev.pdf>) ([düzenlenebilir ODT](<unix/unixdev.odt>))
 
 ### Lisp ve Kabuk Dilleri
@@ -170,6 +171,9 @@ Depoda ilk commit'ten son proje commit'ine kadar yapılan değişikliklerin
 - **12 Kasım 2026:** Segmentation fault hatalarını, nedenlerini ve hata
   ayıklama araçlarını ele alan Türkçe `memory/segmentation_fault_nedir.pdf`
   belgesi eklendi.
+- **12 Kasım 2026:** Özel Matrix ve Element kurulumunu, kimlik doğrulama
+  entegrasyonunu, sunucu yalıtımını ve istemci özelleştirmesini anlatan
+  İngilizce `networking/matrix.pdf` rehberi eklendi.
 
 [ChangeLog](<ChangeLog>), ilk commit'ten son proje commit'ine kadar olan
 değişiklikleri tarih sırasıyla ve eklenen belgelerin adlarıyla kaydeder.

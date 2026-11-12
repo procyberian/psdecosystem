@@ -32,6 +32,7 @@ plainspoken and direct, never dressed up in forced slang.
 - [Linux kernel security learning roadmap: from kernel development to responsible research (Turkish)](<kernel/psdexploit.pdf>) ([editable ODT](<kernel/psdexploit.odt>))
 - [Network Subsystem for Linux](<networking/network subsystem for linux.pdf>)
 - [Federated text-based chat network architecture and IRC automation guide (English)](<networking/federated-irc-architecture-guide.pdf>)
+- [Private Matrix and Element deployment guide (English)](<networking/matrix.pdf>): covers server isolation, client customization, LDAP and Active Directory integration, and multiplatform clients.
 - [Unix Development](<unix/unixdev.pdf>) ([editable ODT](<unix/unixdev.odt>))
 
 ### Lisp and Shell Languages
@@ -172,6 +173,9 @@ below:
 - **November 12, 2026:** Added `memory/segmentation_fault_nedir.pdf`, a
   Turkish-language overview of segmentation faults, their causes, and
   debugging tools.
+- **November 12, 2026:** Added `networking/matrix.pdf`, an English-language
+  guide to private Matrix and Element deployment, authentication integration,
+  server isolation, and client customization.
 
 The [ChangeLog](<ChangeLog>) records changes from the first commit through
 the latest project commit and names the documents added at each stage.
