@@ -187,3 +187,12 @@ plainspoken, direct, and without forced slang.
   infrastructure and budget planning report for Forgejo and Woodpecker CI,
   covering multi-architecture builds, hardware-in-the-loop testing, hardware
   procurement, data center capacity, and estimated costs.
+
+## 2026-11-14
+
+- Changed the program license from BNGPL 3.0-or-later to GNU AGPL
+  3.0-or-later, replacing the root `LICENSE` text.
+- Set the documentation license to CC BY-SA 4.0 or later and added the
+  CC BY-SA 4.0 license text in `by-sa.markdown`.
+- Removed `licensing/agpl-3.0.md` and the former document-specific
+  `licensing/exception.md`, and updated the README license notices.

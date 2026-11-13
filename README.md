@@ -67,8 +67,8 @@ plainspoken and direct, never dressed up in forced slang.
 - [Framework under BNGPL 1.0 or later](<licensing/framework_bngpl.pdf>)
 - [Military BNGPL licensing](<licensing/askerilisans.pdf>)
 - [BNGPL 1.0](<licensing/bngpl-1.0.md>), [BNGPL 2.0](<licensing/bngpl-2.0.md>), and [BNGPL 3.0](<licensing/bngpl-3.0.md>)
-- [GNU Affero General Public License 3.0](<licensing/agpl-3.0.md>)
-- [License exception](<licensing/exception.md>): the civilian PSD GNU/Linux copyleft document is identified as AGPLv3-or-later.
+- [GNU Affero General Public License 3.0](<LICENSE>)
+- [Creative Commons Attribution-ShareAlike 4.0](<by-sa.markdown>)
 
 ### File Systems
 
@@ -185,6 +185,10 @@ below:
 - **November 13, 2026:** Added `massforge/forgejo_infrastructure.pdf`, a
   Turkish-language Forgejo and Woodpecker CI infrastructure and budget
   planning report covering multi-architecture builds and hardware testing.
+- **November 14, 2026:** Changed the program license from BNGPL 3.0-or-later
+  to AGPL 3.0-or-later and set the documentation license to CC BY-SA 4.0 or
+  later. Added the CC BY-SA 4.0 text, removed the separate AGPL text and
+  former license exception file, and updated the README license notices.
 
 The [ChangeLog](<ChangeLog>) records changes from the first commit through
 the latest project commit and names the documents added at each stage.

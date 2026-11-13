@@ -67,8 +67,8 @@ konuşma diline yakın bir New York üslubunda ABD İngilizcesi kullanır.
 - [BNGPL 1.0 veya sonrası kapsamında çerçeve](<licensing/framework_bngpl.pdf>)
 - [Askerî BNGPL lisanslaması](<licensing/askerilisans.pdf>)
 - [BNGPL 1.0](<licensing/bngpl-1.0.md>), [BNGPL 2.0](<licensing/bngpl-2.0.md>) ve [BNGPL 3.0](<licensing/bngpl-3.0.md>)
-- [GNU Affero Genel Kamu Lisansı 3.0](<licensing/agpl-3.0.md>)
-- [Lisans istisnası](<licensing/exception.md>): sivil PSD GNU/Linux copyleft belgesinin AGPLv3-or-later kapsamında olduğu belirtilmiştir.
+- [GNU Affero Genel Kamu Lisansı 3.0](<LICENSE>)
+- [Creative Commons Atıf-AynıLisansla 4.0](<by-sa.markdown>)
 
 ### Dosya Sistemleri
 
@@ -183,27 +183,31 @@ Depoda ilk commit'ten son proje commit'ine kadar yapılan değişikliklerin
 - **13 Kasım 2026:** Çoklu mimaride derleme ve donanım testlerini kapsayan
   Türkçe Forgejo ve Woodpecker CI altyapı ve bütçe planlama raporu
   `massforge/forgejo_infrastructure.pdf` eklendi.
+- **14 Kasım 2026:** Program lisansı BNGPL 3.0 veya sonraki sürümden
+  AGPL 3.0 veya sonraki sürüme değiştirildi; belgeler için CC BY-SA 4.0 veya
+  sonraki sürüm belirlendi. CC BY-SA 4.0 metni eklendi, ayrı AGPL metni ve
+  eski lisans istisnası dosyası kaldırıldı ve README lisans bildirimleri
+  güncellendi.
 
 [ChangeLog](<ChangeLog>), ilk commit'ten son proje commit'ine kadar olan
 değişiklikleri tarih sırasıyla ve eklenen belgelerin adlarıyla kaydeder.
 
 ## Lisans
 
-Copyright (c) 2026-2027 PSD Authors.
+Telif hakkı (c) 2026-2027 PSD Yazarları.
 
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU Affero General Public License as published
-by the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
+Bu program özgür yazılımdır: Özgür Yazılım Vakfı tarafından yayımlanan GNU
+Affero Genel Kamu Lisansı'nın 3. sürümü veya tercihinize bağlı olarak sonraki
+herhangi bir sürümü koşulları altında yeniden dağıtabilir ve/veya
+değiştirebilirsiniz.
 
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU Affero General Public License for more details.
+Bu program yararlı olması umuduyla, ancak SATILABİLİRLİK veya BELİRLİ BİR AMACA
+UYGUNLUK dahil hiçbir garanti verilmeksizin dağıtılmaktadır. Ayrıntılar için
+[LICENSE](<LICENSE>) dosyasındaki GNU Affero Genel Kamu Lisansı'na bakın.
 
-You should have received a copy of the GNU Affero General Public License
-along with this program.  If not, see <https://www.gnu.org/licenses/>.
+Programla birlikte GNU Affero Genel Kamu Lisansı'nın bir kopyasını almış
+olmanız gerekir. Almadıysanız <https://www.gnu.org/licenses/> adresine bakın.
 
-## Belgelendirme Lisansı 
+## Belgelendirme Lisansı
 
-[CC BY-SA 4.0 or later](by-sa.markdown)
+[CC BY-SA 4.0 veya sonraki sürüm](<by-sa.markdown>)
