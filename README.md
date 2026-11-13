@@ -89,6 +89,8 @@ plainspoken and direct, never dressed up in forced slang.
 - [Comparison of AGPL and BNGPL from a Marxist perspective (Turkish)](<society/lisans_society.pdf>) ([Markdown](<society/lisans_society.md>))
 - [Marxist comparison of AGPL and BNGPL licenses (Turkish)](<society/lisanslarin_marksist_karsilastirmasi.pdf>) ([Markdown](<society/lisanslarin_marksist_karsilastirmasi.md>))
 - [Expanded Marxist comparison of AGPL and BNGPL licenses, version 2 (Turkish)](<society/lisanslarin_marksist_karsilastirmasi_v2.pdf>) ([Markdown](<society/lisanslarin_marksist_karsilastirmasi_v2.md>))
+- [Marxist-Leninist/Socialist/Communist perspective and analysis of a business](society/merkez.pdf)
+- [Decentralized AGPLv3-or-later focused business and organization model](society/merkeziyetsiz.pdf)
 
 ### Memory
 

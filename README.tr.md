@@ -89,6 +89,8 @@ konuşma diline yakın bir New York üslubunda ABD İngilizcesi kullanır.
 - [AGPL ve BNGPL lisanslarının Marksist açıdan karşılaştırılması](<society/lisans_society.pdf>) ([Markdown](<society/lisans_society.md>))
 - [AGPL ve BNGPL lisanslarının Marksist karşılaştırması](<society/lisanslarin_marksist_karsilastirmasi.pdf>) ([Markdown](<society/lisanslarin_marksist_karsilastirmasi.md>))
 - [AGPL ve BNGPL lisanslarının genişletilmiş Marksist karşılaştırması, 2. sürüm](<society/lisanslarin_marksist_karsilastirmasi_v2.pdf>) ([Markdown](<society/lisanslarin_marksist_karsilastirmasi_v2.md>))
+- [Marxist-Leninist/Sosyalist/Komünist bakış açısıyla iş dünyasının analizi](society/merkez.pdf)
+- [AGPLv3-or-later ile Merkeziyetsiz iş ve organizasyon modeli](society/merkeziyetsiz.pdf)
 
 ### Bellek
 
