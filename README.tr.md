@@ -189,17 +189,21 @@ değişiklikleri tarih sırasıyla ve eklenen belgelerin adlarıyla kaydeder.
 
 ## Lisans
 
-Telif hakkı (c) 2026-2027 PSD Yazarları.
+Copyright (c) 2026-2027 PSD Authors.
 
-Belgeye özgü bir istisna bulunmadıkça bu depo, Proje Sahibi tarafından resmen
-yayımlanan ve bu yükseltme yoluna izin veren sonraki bir sürüm veya Broad
-Netwide General Public License (BNGPL), Sürüm 3.0 kapsamında lisanslanır.
-koşullar için [LICENSE](<LICENSE>) dosyasına ve [BNGPL 3.0 metnine](<licensing/bngpl-3.0.md>)
-bakın. [psdgnulinux_sivil_copyleft.pdf](<ecosystem/psdgnulinux_sivil_copyleft.pdf>)
-belgesi için geçerli istisna [exception.md](<licensing/exception.md>) dosyasında
-kaydedilmiştir.
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU Affero General Public License as published
+by the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
 
-Bu materyal herhangi bir garanti verilmeksizin, “olduğu gibi” sunulur.
-İkili biçimde dağıtılması veya bir bulut ya da SaaS arayüzü üzerinden
-sunulması durumunda, ilgili BNGPL koşulları uyarınca telif ve lisans
-bildirimlerine lisansın belirttiği şekilde erişim sağlanmalıdır.
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU Affero General Public License for more details.
+
+You should have received a copy of the GNU Affero General Public License
+along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+## Belgelendirme Lisansı 
+
+[CC BY-SA 4.0 or later](by-sa.markdown)

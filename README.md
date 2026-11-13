@@ -193,15 +193,19 @@ the latest project commit and names the documents added at each stage.
 
 Copyright (c) 2026-2027 PSD Authors.
 
-Unless a document-specific exception applies, this repository is licensed
-under the Broad Netwide General Public License (BNGPL), Version 3.0, or a
-later version officially released by the Project Owner that permits that
-upgrade path. See [LICENSE](<LICENSE>) and the [BNGPL 3.0 text](<licensing/bngpl-3.0.md>)
-for the terms. The exception for
-[psdgnulinux_sivil_copyleft.pdf](<ecosystem/psdgnulinux_sivil_copyleft.pdf>) is recorded
-in [exception.md](<licensing/exception.md>).
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU Affero General Public License as published
+by the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
 
-This material is provided "as is," without warranty. If it is conveyed as a
-binary or deployed through a cloud or SaaS interface, the applicable BNGPL
-terms require access to the copyright and license notices as specified in
-the license.
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU Affero General Public License for more details.
+
+You should have received a copy of the GNU Affero General Public License
+along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+## Documentation License
+
+[CC BY-SA 4.0 or later](by-sa.markdown)
