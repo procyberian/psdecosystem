@@ -180,3 +180,10 @@ plainspoken, direct, and without forced slang.
 - Added `networking/matrix_rust_sdk_nyc_presentation.pptx`: an English-language
   presentation on matrix-rust-sdk, covering its layered architecture,
   encryption, an async bot example, operations, and cross-platform use.
+
+## 2026-11-13
+
+- Added `massforge/forgejo_infrastructure.pdf`: a Turkish-language
+  infrastructure and budget planning report for Forgejo and Woodpecker CI,
+  covering multi-architecture builds, hardware-in-the-loop testing, hardware
+  procurement, data center capacity, and estimated costs.

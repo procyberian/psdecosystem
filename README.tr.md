@@ -50,6 +50,7 @@ konuşma diline yakın bir New York üslubunda ABD İngilizcesi kullanır.
 
 - [Git ve CI/CD platformu mimari tasarımı](<massforge/git_platform_mimari_tasarimi.pdf>) ([Markdown](<massforge/git_platform_mimari_tasarimi.md>)): C/C++ ve GNU Assembler odaklı, yüksek performanslı bir Git ve CI/CD platformunun çekirdek, depolama, CI/CD motoru, web teknolojileri ve ölçekleme başlıklarını kapsayan mimari yol haritası.
 - [Forgejo kayıt onayı ve yönetici bildirim ayarları](<massforge/forgejo-kayit-onay-ayarlari.pdf>): Kayıt onayı ve e-posta bildirimlerinin yapılandırılmasını, Forgejo'nun yeniden başlatılmasını ve e-posta gönderiminin test edilmesini anlatan Türkçe rehber.
+- [Forgejo ve Woodpecker CI altyapı ve bütçe planı](<massforge/forgejo_infrastructure.pdf>): Çoklu mimaride derleme ve donanım testleri için önerilen altyapıyı, donanım ihtiyaçlarını, veri merkezi kapasitesini ve tahmini maliyetleri ele alan Türkçe rapor.
 
 ### Topluluklar, Kuruluşlar ve Hizmetler
 
@@ -179,6 +180,9 @@ Depoda ilk commit'ten son proje commit'ine kadar yapılan değişikliklerin
 - **12 Kasım 2026:** matrix-rust-sdk mimarisini, şifrelemeyi, asenkron bot
   örneğini ve platformlar arası kullanımı anlatan İngilizce
   `networking/matrix_rust_sdk_nyc_presentation.pptx` sunumu eklendi.
+- **13 Kasım 2026:** Çoklu mimaride derleme ve donanım testlerini kapsayan
+  Türkçe Forgejo ve Woodpecker CI altyapı ve bütçe planlama raporu
+  `massforge/forgejo_infrastructure.pdf` eklendi.
 
 [ChangeLog](<ChangeLog>), ilk commit'ten son proje commit'ine kadar olan
 değişiklikleri tarih sırasıyla ve eklenen belgelerin adlarıyla kaydeder.

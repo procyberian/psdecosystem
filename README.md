@@ -50,6 +50,7 @@ plainspoken and direct, never dressed up in forced slang.
 
 - [Git and CI/CD platform architecture design (Turkish)](<massforge/git_platform_mimari_tasarimi.pdf>) ([Markdown](<massforge/git_platform_mimari_tasarimi.md>)): an architecture roadmap for a high-performance Git and CI/CD platform using C/C++ and GNU Assembler, covering the core, storage, CI/CD engine, web stack, and scaling.
 - [Forgejo registration approval and administrator notification settings (Turkish)](<massforge/forgejo-kayit-onay-ayarlari.pdf>): a guide to configuring registration approval and email notifications, restarting Forgejo, and testing mail delivery.
+- [Forgejo and Woodpecker CI infrastructure and budget plan (Turkish)](<massforge/forgejo_infrastructure.pdf>): a proposed multi-architecture build and hardware testing infrastructure, with hardware, data center capacity, and cost estimates.
 
 ### Community, Organizations, and Services
 
@@ -181,6 +182,9 @@ below:
 - **November 12, 2026:** Added `networking/matrix_rust_sdk_nyc_presentation.pptx`,
   an English-language presentation on matrix-rust-sdk architecture,
   encryption, an async bot example, and cross-platform use.
+- **November 13, 2026:** Added `massforge/forgejo_infrastructure.pdf`, a
+  Turkish-language Forgejo and Woodpecker CI infrastructure and budget
+  planning report covering multi-architecture builds and hardware testing.
 
 The [ChangeLog](<ChangeLog>) records changes from the first commit through
 the latest project commit and names the documents added at each stage.
