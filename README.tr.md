@@ -194,22 +194,23 @@ Depoda ilk commit'ten son proje commit'ine kadar yapılan değişikliklerin
 [ChangeLog](<ChangeLog>), ilk commit'ten son proje commit'ine kadar olan
 değişiklikleri tarih sırasıyla ve eklenen belgelerin adlarıyla kaydeder.
 
-## Lisans
+## License
 
-Telif hakkı (c) 2026-2027 PSD Yazarları.
+Copyright (c) 2026-2027 PSD Authors.
 
-Bu program özgür yazılımdır: Özgür Yazılım Vakfı tarafından yayımlanan GNU
-Affero Genel Kamu Lisansı'nın 3. sürümü veya tercihinize bağlı olarak sonraki
-herhangi bir sürümü koşulları altında yeniden dağıtabilir ve/veya
-değiştirebilirsiniz.
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU Affero General Public License as published
+by the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
 
-Bu program yararlı olması umuduyla, ancak SATILABİLİRLİK veya BELİRLİ BİR AMACA
-UYGUNLUK dahil hiçbir garanti verilmeksizin dağıtılmaktadır. Ayrıntılar için
-[LICENSE](<LICENSE>) dosyasındaki GNU Affero Genel Kamu Lisansı'na bakın.
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU Affero General Public License for more details.
 
-Programla birlikte GNU Affero Genel Kamu Lisansı'nın bir kopyasını almış
-olmanız gerekir. Almadıysanız <https://www.gnu.org/licenses/> adresine bakın.
+You should have received a copy of the GNU Affero General Public License
+along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
-## Belgelendirme Lisansı
+## Documentation License
 
-[CC BY-SA 4.0 veya sonraki sürüm](<by-sa.markdown>)
+[CC BY-SA 4.0 or later](by-sa.markdown)
