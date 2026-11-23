@@ -1,0 +1,17 @@
+evet ama biz bir merkeziz , diğer alan adları codeberg disroot vern gibi forgejo temelli yapılar başka merkezler ve biz bir federasyon kurabiliriz bu saydıklarımla amacım kendi içimde tek bir merkez olmadan dağıtık yönetim sağlayabilmek gerçi yine bir tane veri merkezini merkez seçebilirim ben buna centrum next merkez ve sonrası dedim Türkçesiyle
+
+her koşulda yedekli gidip kendi şirket ve topluluk projelerime ait tüm kod altyapının kaynak kod içeriklerini yedekleyeceğim 1 petabyte ise 1 100 petapyte ise 100 petabyte bu masraftan kaçınmayacağım
+
+özetle dediğim senaryo kendi iç ağımız için kurgulandı.
+
+amacım küresel özgür donanım ve özgür yazılım altyapısı
+
+bu kapsamda hem azure aws gcp ibm huawei equinix openmetal ovh hetzner gibi global bulut sağlayıcılarla hem de diğer global veri merkezleriyle hem de Türk Türkiye'deki veri merkezleriyle Dalnet ve plusclouds ile çalışacağız. 
+
+Kendi dağıtık altyapımızı Forgejo Woodpecker hizmetini bizim sunucumuzu değil de kendi sunucularını kendi şirket içindeki veri merkezlerinde kullanmak isteyenlerle federasyon kurarak genişleteceğiz. Bu yedeklilik sağlayabilir.
+
+Yani önce global kendi ağımız , sonra Codeberg Disroot Vern gibi Forgejo tabanlı ağlar ve sonra da özel veya genele açık Forgejo ve Woodpecker sunucularıyla ağımızı federatif kılacağız.
+
+Yani gerçekten içerikler tek bir merkezde olmayacak. Sadece biz kendi iç yapımızda tek alan adı üzerinden https://source.masscollabs.xyz üzerinden ve https://masscollabs.xyz alan adı üzerinden kendi veri organizasyonumuzu sağlayacağız. Bu yapı bir matruşka bebeği gibi kendi kontrolümüzdeki veri merkezleri en içte , sonra Türkiyedeki veri merkezleri, sonra diğer Türk ülkelerindeki veri merkezleri, sonra global bulut sağlayıcılar ve veri merkezleri şeklinde ilerleyecek.
+
+Belirttiğim gibi Codeberg , Disroot, Vern ve diğer forgejo sunucuları ve anlaştığımız kurumlar şirketler içinde tutulan Forgejo ve Woodpecker sunucuları da bizim federasyon bağlantımız olacak
